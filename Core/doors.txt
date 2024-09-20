@@ -1,0 +1,7 @@
+192 -- mig-21 nav lights
+811 -- viggen top light
+86 hind right door
+38 hind left door
+
+38 hip left door
+86 hip back door

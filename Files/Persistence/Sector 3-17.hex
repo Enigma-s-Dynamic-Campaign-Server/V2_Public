@@ -1,0 +1,14 @@
+STARTPLATOONS
+ENDPLATOONS
+ENDDEPOTS
+ENDFACTORIES
+Infrastructure 1-4
+DEAD|
+ACTIVE|Infrastructure -5-1|Infrastructure -4-1|Infrastructure -3-1|
+Infrastructure 1-7
+DEAD|
+ACTIVE|Infrastructure-18|Infrastructure -6|Infrastructure -7|
+Infrastructure 1-71
+DEAD|
+ACTIVE|Infrastructure 201-15-1|
+ENDINFRA

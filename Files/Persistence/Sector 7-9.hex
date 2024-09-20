@@ -1,0 +1,14 @@
+STARTPLATOONS
+Blue Sea 1_group_12.001_59~Blue Sea 1_1_12.001_59,leander-gun-andromeda,-158075.453125,-60773.875,2.5604836975508,false||Sector 7-9|Platoon TL-519|
+Blue Sea 1_group_14.001_80~Blue Sea 1_1_14.001_80,leander-gun-andromeda,-159847.625,-64721.26953125,1.2161003335101,false||Sector 7-9|Platoon TL-518|
+Blue Sea 1_group_13.001_69~Blue Sea 1_1_13.001_69,leander-gun-andromeda,-158021.71875,-63315.7578125,0.085330286507908,false||Sector 7-9|Platoon TL-521|
+ENDPLATOONS
+ENDDEPOTS
+ENDFACTORIES
+Infrastructure 1-79
+DEAD|
+ACTIVE|Infrastructure -122-1|Infrastructure -123-1|Infrastructure -121-1|
+Infrastructure 1-19
+DEAD|
+ACTIVE|Infrastructure -118-1|Infrastructure -119-1|Infrastructure -120-1|
+ENDINFRA

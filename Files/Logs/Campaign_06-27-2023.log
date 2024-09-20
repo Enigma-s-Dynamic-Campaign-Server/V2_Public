@@ -1,0 +1,267 @@
+2023-06-27 01:38:38 INFO	loader.lua: loader initialized
+2023-06-27 01:38:41 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:38:41 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:38:41 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:38:41 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:38:41 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:38:41 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:39:36 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 01:39:36 INFO	te.controlLoopV2: tick starting
+2023-06-27 01:39:36 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:39:36 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:39:36 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 01:39:36 INFO	strength:  winner count: 38 | loser count: 34
+2023-06-27 01:39:36 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.10526315789474 | numberToCapture: 0
+2023-06-27 01:39:36 INFO	Variance required: Red:
+2023-06-27 01:39:36 INFO	Variance required: Blue:
+2023-06-27 01:41:04 INFO	loader.lua: loader initialized
+2023-06-27 01:41:08 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:41:08 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:41:08 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:41:09 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:41:09 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:41:09 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:42:21 INFO	loader.lua: loader initialized
+2023-06-27 01:42:26 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:42:26 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:42:26 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:42:26 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:42:26 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:42:26 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:43:21 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 01:43:21 INFO	te.controlLoopV2: tick starting
+2023-06-27 01:43:21 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:43:21 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:43:21 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 01:43:21 INFO	strength:  winner count: 38 | loser count: 34
+2023-06-27 01:43:21 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.10526315789474 | numberToCapture: 0
+2023-06-27 01:43:21 INFO	Variance required: Red:
+2023-06-27 01:43:21 INFO	Variance required: Blue:
+2023-06-27 01:43:57 INFO	loader.lua: loader initialized
+2023-06-27 01:44:02 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:44:02 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:44:02 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:44:02 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:44:02 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:44:02 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:47:11 INFO	loader.lua: loader initialized
+2023-06-27 01:47:15 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:47:15 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:47:15 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:47:16 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:47:16 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:47:16 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:48:11 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 01:48:11 INFO	te.controlLoopV2: tick starting
+2023-06-27 01:48:11 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:48:11 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:48:11 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 01:48:11 INFO	strength:  winner count: 38 | loser count: 34
+2023-06-27 01:48:11 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.10526315789474 | numberToCapture: 0
+2023-06-27 01:48:11 INFO	Variance required: Red:
+2023-06-27 01:48:11 INFO	Variance required: Blue:
+2023-06-27 01:51:19 INFO	loader.lua: loader initialized
+2023-06-27 01:51:23 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:51:23 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:51:23 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:51:24 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:51:24 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:51:24 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 01:52:19 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 01:52:19 INFO	te.controlLoopV2: tick starting
+2023-06-27 01:52:19 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:52:19 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 01:52:19 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 01:52:19 INFO	strength:  winner count: 38 | loser count: 34
+2023-06-27 01:52:19 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.10526315789474 | numberToCapture: 0
+2023-06-27 01:52:19 INFO	Variance required: Red:
+2023-06-27 01:52:19 INFO	Variance required: Blue:
+2023-06-27 22:16:13 INFO	loader.lua: loader initialized
+2023-06-27 22:16:16 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:16:16 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:16:16 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 22:16:17 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:16:17 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:16:17 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 22:16:44 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 22:16:44 INFO	te.controlLoopV2: tick starting
+2023-06-27 22:16:44 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:16:44 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:16:44 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 22:16:44 INFO	strength:  winner count: 38 | loser count: 34
+2023-06-27 22:16:44 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.10526315789474 | numberToCapture: 0
+2023-06-27 22:16:44 INFO	Variance required: Red:
+2023-06-27 22:16:44 INFO	Variance required: Blue:
+2023-06-27 22:17:35 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 22:17:35 INFO	te.controlLoopV2: tick starting
+2023-06-27 22:17:35 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:17:35 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:17:35 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 22:17:35 INFO	strength:  winner count: 34 | loser count: 33
+2023-06-27 22:17:35 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.029411764705882 | numberToCapture: 0
+2023-06-27 22:17:35 INFO	Variance required: Red:
+2023-06-27 22:17:35 INFO	Variance required: Blue:
+2023-06-27 22:17:57 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 22:17:57 INFO	te.controlLoopV2: tick starting
+2023-06-27 22:17:57 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:17:57 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:17:57 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 22:17:57 INFO	strength:  winner count: 34 | loser count: 30
+2023-06-27 22:17:57 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.11764705882353 | numberToCapture: 0
+2023-06-27 22:17:57 INFO	Variance required: Red:
+2023-06-27 22:17:57 INFO	Variance required: Blue:
+2023-06-27 22:21:56 INFO	loader.lua: loader initialized
+2023-06-27 22:22:00 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:22:00 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:22:00 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 22:22:01 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:22:01 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:22:01 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 22:22:56 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 22:22:56 INFO	te.controlLoopV2: tick starting
+2023-06-27 22:22:56 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:22:56 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:22:56 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 22:22:56 INFO	strength:  winner count: 38 | loser count: 34
+2023-06-27 22:22:56 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.10526315789474 | numberToCapture: 0
+2023-06-27 22:22:56 INFO	Variance required: Red:
+2023-06-27 22:22:56 INFO	Variance required: Blue:
+2023-06-27 22:30:32 INFO	loader.lua: loader initialized
+2023-06-27 22:30:36 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:30:36 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:30:36 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 22:30:37 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:30:37 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:30:37 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 22:31:32 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 22:31:32 INFO	te.controlLoopV2: tick starting
+2023-06-27 22:31:32 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:31:32 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:31:32 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 22:31:32 INFO	strength:  winner count: 38 | loser count: 34
+2023-06-27 22:31:32 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.10526315789474 | numberToCapture: 0
+2023-06-27 22:31:32 INFO	Variance required: Red:
+2023-06-27 22:31:32 INFO	Variance required: Blue:
+2023-06-27 22:45:39 INFO	loader.lua: loader initialized
+2023-06-27 22:45:44 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:45:44 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:45:44 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 22:45:44 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:45:44 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:45:44 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 22:46:39 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 22:46:39 INFO	te.controlLoopV2: tick starting
+2023-06-27 22:46:39 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:46:39 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 22:46:39 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 22:46:39 INFO	strength:  winner count: 38 | loser count: 34
+2023-06-27 22:46:39 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.10526315789474 | numberToCapture: 0
+2023-06-27 22:46:39 INFO	Variance required: Red:
+2023-06-27 22:46:39 INFO	Variance required: Blue:
+2023-06-27 23:00:45 INFO	loader.lua: loader initialized
+2023-06-27 23:00:49 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:00:49 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:00:49 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 23:00:50 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:00:50 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:00:50 INFO	INIT frontline distribution:  40 | # of frontlines: 8 | platoons per frontline: 5
+2023-06-27 23:01:45 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 23:01:45 INFO	te.controlLoopV2: tick starting
+2023-06-27 23:01:45 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:01:45 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:01:45 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 23:01:45 INFO	strength:  winner count: 34 | loser count: 29
+2023-06-27 23:01:45 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.14705882352941 | numberToCapture: 1
+2023-06-27 23:01:45 INFO	Variance required: Red:
+2023-06-27 23:01:45 INFO	Variance required: Blue:
+2023-06-27 23:01:45 INFO	attrition: Something flipped: resetting attrition values
+2023-06-27 23:01:45 INFO	weakest hex calc:  weakest hex added:  Sector 7-9 0
+2023-06-27 23:01:45 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-79 | coa: 2 | hex: Sector 7-9
+2023-06-27 23:01:45 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-19 | coa: 2 | hex: Sector 7-9
+2023-06-27 23:01:45 INFO	Flip Owner:  Sector 7-9 flipped to: 1
+2023-06-27 23:01:45 INFO	flipping hexes:  RED has captured Sector 7-9 !
+2023-06-27 23:01:45 INFO	group clear:  cleared groups everywhere
+2023-06-27 23:01:45 INFO	frontline distribution:  40 | # of frontlines: 11 | platoons per frontline: 4
+2023-06-27 23:02:35 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 23:02:35 INFO	te.controlLoopV2: tick starting
+2023-06-27 23:02:35 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:02:35 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:02:35 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 23:02:35 INFO	strength:  winner count: 42 | loser count: 31
+2023-06-27 23:02:35 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.26190476190476 | numberToCapture: 1
+2023-06-27 23:02:35 INFO	Variance required: Red:
+2023-06-27 23:02:35 INFO	Variance required: Blue:
+2023-06-27 23:02:35 INFO	attrition: Something flipped: resetting attrition values
+2023-06-27 23:02:35 INFO	weakest hex calc:  weakest hex added:  Sector 8-10 0
+2023-06-27 23:02:35 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-86 | coa: 2 | hex: Sector 8-10
+2023-06-27 23:02:35 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-20 | coa: 2 | hex: Sector 8-10
+2023-06-27 23:02:35 INFO	Flip Owner:  Sector 8-10 flipped to: 1
+2023-06-27 23:02:35 INFO	flipping hexes:  RED has captured Sector 8-10 !
+2023-06-27 23:02:35 INFO	group clear:  cleared groups everywhere
+2023-06-27 23:02:35 INFO	frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-27 23:40:30 INFO	loader.lua: loader initialized
+2023-06-27 23:40:35 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:40:35 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:40:35 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-27 23:40:36 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:40:36 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:40:36 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-27 23:41:30 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 23:41:30 INFO	te.controlLoopV2: tick starting
+2023-06-27 23:41:30 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:41:30 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:41:30 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 23:41:30 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-27 23:41:30 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-27 23:41:30 INFO	Variance required: Red:
+2023-06-27 23:41:30 INFO	Variance required: Blue:
+2023-06-27 23:42:16 INFO	loader.lua: loader initialized
+2023-06-27 23:42:21 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:42:21 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:42:21 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-27 23:42:22 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:42:22 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:42:22 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-27 23:43:16 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 23:43:16 INFO	te.controlLoopV2: tick starting
+2023-06-27 23:43:16 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:43:16 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:43:16 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 23:43:16 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-27 23:43:16 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-27 23:43:16 INFO	Variance required: Red:
+2023-06-27 23:43:16 INFO	Variance required: Blue:
+2023-06-27 23:46:25 INFO	loader.lua: loader initialized
+2023-06-27 23:46:29 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:46:29 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:46:29 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-27 23:46:30 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:46:30 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:46:30 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-27 23:47:25 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 23:47:25 INFO	te.controlLoopV2: tick starting
+2023-06-27 23:47:25 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:47:25 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:47:25 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 23:47:25 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-27 23:47:25 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-27 23:47:25 INFO	Variance required: Red:
+2023-06-27 23:47:25 INFO	Variance required: Blue:
+2023-06-27 23:49:54 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-27 23:49:54 INFO	te.controlLoopV2: tick starting
+2023-06-27 23:49:54 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:49:54 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 3 | infra: 0
+2023-06-27 23:49:54 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-27 23:49:54 INFO	strength:  winner count: 45 | loser count: 35
+2023-06-27 23:49:54 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.22222222222222 | numberToCapture: 1
+2023-06-27 23:49:54 INFO	Variance required: Red:
+2023-06-27 23:49:54 INFO	Variance required: Blue:
+2023-06-27 23:49:54 INFO	attrition: Something flipped: resetting attrition values
+2023-06-27 23:49:54 INFO	weakest hex calc:  weakest hex added:  Sector 8-8 0
+2023-06-27 23:49:54 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-29 | coa: 2 | hex: Sector 8-8
+2023-06-27 23:49:54 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-25 | coa: 2 | hex: Sector 8-8
+2023-06-27 23:49:54 INFO	Infrastructure Repair:  Repaired: Factory 8-8 | coa: 2 | hex: Sector 8-8
+2023-06-27 23:49:54 INFO	Flip Owner:  Sector 8-8 flipped to: 1
+2023-06-27 23:49:54 INFO	flipping hexes:  RED has captured Sector 8-8 !
+2023-06-27 23:49:54 INFO	group clear:  cleared groups everywhere
+2023-06-27 23:49:54 INFO	frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3

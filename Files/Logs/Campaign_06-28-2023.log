@@ -1,0 +1,57 @@
+2023-06-28 00:01:16 INFO	loader.lua: loader initialized
+2023-06-28 00:01:21 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:01:21 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:01:21 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-28 00:01:21 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:01:21 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:01:21 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-28 00:02:16 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-28 00:02:16 INFO	te.controlLoopV2: tick starting
+2023-06-28 00:02:16 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:02:16 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:02:16 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-28 00:02:16 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-28 00:02:16 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-28 00:02:16 INFO	Variance required: Red:
+2023-06-28 00:02:16 INFO	Variance required: Blue:
+2023-06-28 00:02:48 INFO	loader.lua: loader initialized
+2023-06-28 00:02:53 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:02:53 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:02:53 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-28 00:02:53 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:02:53 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:02:53 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-28 00:03:48 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-28 00:03:48 INFO	te.controlLoopV2: tick starting
+2023-06-28 00:03:48 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:03:48 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:03:48 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-28 00:03:48 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-28 00:03:48 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-28 00:03:48 INFO	Variance required: Red:
+2023-06-28 00:03:48 INFO	Variance required: Blue:
+2023-06-28 00:04:56 INFO	loader.lua: loader initialized
+2023-06-28 00:05:00 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:05:00 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:05:00 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-28 00:05:01 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:05:01 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:05:01 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-28 00:05:56 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-28 00:05:56 INFO	te.controlLoopV2: tick starting
+2023-06-28 00:05:56 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 00:05:56 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 00:05:56 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-28 00:05:56 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-28 00:05:56 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-28 00:05:56 INFO	Variance required: Red:
+2023-06-28 00:05:56 INFO	Variance required: Blue:
+2023-06-28 02:04:56 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-28 02:04:56 INFO	te.controlLoopV2: tick starting
+2023-06-28 02:04:56 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-28 02:04:56 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-28 02:04:56 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-28 02:04:56 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-28 02:04:56 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-28 02:04:56 INFO	Variance required: Red:
+2023-06-28 02:04:56 INFO	Variance required: Blue:

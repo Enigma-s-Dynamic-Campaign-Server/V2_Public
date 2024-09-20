@@ -1,0 +1,1133 @@
+2023-06-02 10:11:53 INFO	loader.lua: loader initialized
+2023-06-02 10:11:53 INFO	startInit:  false
+2023-06-02 10:11:53 INFO	loadFromPersistence:  false
+2023-06-02 10:12:22 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:12:22 INFO	weakest hex calc:  weakest hex:  Sector 9-11 2
+2023-06-02 10:12:22 INFO	weakest hex calc:  weakest hex:  Sector 7-15 1
+2023-06-02 10:12:22 INFO	FlipOwner: Sector 7-15
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 4-18
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 2-18
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 4-14
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 7-13
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 7-17
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 9-9
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 8-10
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 8-12
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 9-11
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 9-13
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 3-15
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 7-15
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 3-9
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 6-14
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 5-15
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 9-7
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 3-13
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 7-9
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 7-11
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 5-9
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 2-12
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 5-13
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 4-12
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 6-10
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 2-14
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 3-17
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 3-11
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 6-12
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 5-11
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 8-14
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 5-17
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 4-16
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 2-10
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 4-10
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 6-8
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 2-16
+2023-06-02 10:12:22 INFO	group Clear:  cleared groups in Sector 8-8
+2023-06-02 10:14:06 INFO	loader.lua: loader initialized
+2023-06-02 10:14:06 INFO	startInit:  true
+2023-06-02 10:14:06 INFO	loadFromPersistence:  false
+2023-06-02 10:15:06 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:15:06 INFO	weakest hex calc:  weakest hex:  Sector 6-14 8
+2023-06-02 10:15:06 INFO	weakest hex calc:  weakest hex:  Sector 6-10 7
+2023-06-02 10:15:06 INFO	weakest hex calc:  weakest hex:  Sector 6-8 3
+2023-06-02 10:15:06 INFO	FlipOwner: Sector 6-8
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 4-18
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 2-18
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 4-14
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 7-13
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 7-17
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 9-9
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 8-10
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 8-12
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 9-11
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 9-13
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 3-15
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 7-15
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 3-9
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 6-14
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 5-15
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 9-7
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 3-13
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 7-9
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 7-11
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 5-9
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 2-12
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 5-13
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 4-12
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 6-10
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 2-14
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 3-17
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 3-11
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 6-12
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 5-11
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 8-14
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 5-17
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 4-16
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 2-10
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 4-10
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 6-8
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 2-16
+2023-06-02 10:15:06 INFO	group Clear:  cleared groups in Sector 8-8
+2023-06-02 10:19:00 INFO	loader.lua: loader initialized
+2023-06-02 10:19:00 INFO	startInit:  false
+2023-06-02 10:19:00 INFO	loadFromPersistence:  false
+2023-06-02 10:20:00 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:20:00 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 10:21:34 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:21:34 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.1304347826087 | numberToCapture: 0
+2023-06-02 10:21:34 INFO	weakest hex calc:  weakest hex:  Sector 6-14 8
+2023-06-02 10:21:34 INFO	weakest hex calc:  weakest hex:  Sector 7-9 4
+2023-06-02 10:21:34 INFO	FlipOwner: Sector 7-9
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 4-18
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 2-18
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 4-14
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 7-13
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 7-17
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 9-9
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 8-10
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 8-12
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 9-11
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 9-13
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 3-15
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 7-15
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 3-9
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 6-14
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 5-15
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 9-7
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 3-13
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 7-9
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 7-11
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 5-9
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 2-12
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 5-13
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 4-12
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 6-10
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 2-14
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 3-17
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 3-11
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 6-12
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 5-11
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 8-14
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 5-17
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 4-16
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 2-10
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 4-10
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 6-8
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 2-16
+2023-06-02 10:21:34 INFO	group Clear:  cleared groups in Sector 8-8
+2023-06-02 10:23:12 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:23:12 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 10:23:45 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:23:45 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.33333333333333 | numberToCapture: 2
+2023-06-02 10:23:45 INFO	weakest hex calc:  weakest hex:  Sector 8-10 3
+2023-06-02 10:23:45 INFO	weakest hex calc:  weakest hex:  Sector 6-14 0
+2023-06-02 10:23:45 INFO	FlipOwner: Sector 6-14
+2023-06-02 10:23:45 INFO	weakest hex calc:  weakest hex:  Sector 7-13 0
+2023-06-02 10:23:45 INFO	FlipOwner: Sector 7-13
+2023-06-02 10:23:45 INFO	weakest hex calc:  weakest hex:  Sector 8-10 3
+2023-06-02 10:23:45 INFO	weakest hex calc:  weakest hex:  Sector 8-12 0
+2023-06-02 10:23:45 INFO	FlipOwner: Sector 8-12
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 4-18
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 2-18
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 4-14
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 7-13
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 7-17
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 9-9
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 8-10
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 8-12
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 9-11
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 9-13
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 3-15
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 7-15
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 3-9
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 6-14
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 5-15
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 9-7
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 3-13
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 7-9
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 7-11
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 5-9
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 2-12
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 5-13
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 4-12
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 6-10
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 2-14
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 3-17
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 3-11
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 6-12
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 5-11
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 8-14
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 5-17
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 4-16
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 2-10
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 4-10
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 6-8
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 2-16
+2023-06-02 10:23:45 INFO	group Clear:  cleared groups in Sector 8-8
+2023-06-02 10:27:48 INFO	loader.lua: loader initialized
+2023-06-02 10:27:48 INFO	startInit:  true
+2023-06-02 10:27:48 INFO	loadFromPersistence:  false
+2023-06-02 10:28:48 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:28:48 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:28:48 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.125 | numberToCapture: 0
+2023-06-02 10:29:44 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:29:44 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:29:44 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.14285714285714 | numberToCapture: 0
+2023-06-02 10:30:44 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:30:44 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:30:44 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.14285714285714 | numberToCapture: 0
+2023-06-02 10:31:05 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:31:05 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:31:05 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.26315789473684 | numberToCapture: 1
+2023-06-02 10:31:05 INFO	weakest hex calc:  weakest hex:  Sector 6-14 8
+2023-06-02 10:31:05 INFO	weakest hex calc:  weakest hex:  Sector 6-10 6
+2023-06-02 10:31:05 INFO	weakest hex calc:  weakest hex:  Sector 6-12 0
+2023-06-02 10:31:05 INFO	FlipOwner: Sector 6-12
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 4-18
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 2-18
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 4-14
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 7-13
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 7-17
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 9-9
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 8-10
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 8-12
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 9-11
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 9-13
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 3-15
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 7-15
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 3-9
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 6-14
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 5-15
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 9-7
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 3-13
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 7-9
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 7-11
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 5-9
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 2-12
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 5-13
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 4-12
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 6-10
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 2-14
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 3-17
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 3-11
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 6-12
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 5-11
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 8-14
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 5-17
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 4-16
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 2-10
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 4-10
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 6-8
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 2-16
+2023-06-02 10:31:05 INFO	group Clear:  cleared groups in Sector 8-8
+2023-06-02 10:32:02 INFO	loader.lua: loader initialized
+2023-06-02 10:32:02 INFO	startInit:  true
+2023-06-02 10:32:02 INFO	loadFromPersistence:  false
+2023-06-02 10:33:02 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:33:02 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:33:02 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.23809523809524 | numberToCapture: 1
+2023-06-02 10:33:02 INFO	weakest hex calc:  weakest hex:  Sector 6-14 8
+2023-06-02 10:33:02 INFO	weakest hex calc:  weakest hex:  Sector 6-10 1
+2023-06-02 10:33:02 INFO	FlipOwner: Sector 6-10
+2023-06-02 10:33:02 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 10:41:27 INFO	loader.lua: loader initialized
+2023-06-02 10:41:27 INFO	startInit:  true
+2023-06-02 10:41:27 INFO	loadFromPersistence:  false
+2023-06-02 10:42:27 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:42:27 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:42:27 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.4 | numberToCapture: 2
+2023-06-02 10:42:27 INFO	weakest hex calc:  weakest hex:  Sector 5-15 6
+2023-06-02 10:42:27 INFO	weakest hex calc:  weakest hex:  Sector 5-11 0
+2023-06-02 10:42:27 INFO	FlipOwner: Sector 5-11
+2023-06-02 10:42:27 INFO	weakest hex calc:  weakest hex:  Sector 5-15 6
+2023-06-02 10:42:27 INFO	weakest hex calc:  weakest hex:  Sector 4-12 0
+2023-06-02 10:42:27 INFO	FlipOwner: Sector 4-12
+2023-06-02 10:42:27 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 10:46:10 INFO	loader.lua: loader initialized
+2023-06-02 10:46:10 INFO	startInit:  false
+2023-06-02 10:46:10 INFO	loadFromPersistence:  false
+2023-06-02 10:47:10 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:47:10 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:47:10 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 10:49:04 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:49:04 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:49:04 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.52941176470588 | numberToCapture: 3
+2023-06-02 10:49:04 INFO	weakest hex calc:  weakest hex added:  Sector 6-14 5
+2023-06-02 10:49:04 INFO	weakest hex calc:  weakest hex added:  Sector 6-14 5
+2023-06-02 10:49:04 INFO	weakest hex calc:  weakest hex added:  Sector 6-14 5
+2023-06-02 10:49:04 INFO	FlipOwner: Sector 6-14
+2023-06-02 10:49:04 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 10:51:34 INFO	loader.lua: loader initialized
+2023-06-02 10:51:34 INFO	startInit:  true
+2023-06-02 10:51:34 INFO	loadFromPersistence:  false
+2023-06-02 10:52:34 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 10:52:34 INFO	te.controlLoopV2: tick starting
+2023-06-02 10:52:34 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.42105263157895 | numberToCapture: 2
+2023-06-02 10:52:34 INFO	weakest hex calc:  weakest hex added:  Sector 6-14 8
+2023-06-02 10:52:34 INFO	weakest hex calc:  weakest hex added:  Sector 6-10 4
+2023-06-02 10:52:34 INFO	FlipOwner: Sector 6-10
+2023-06-02 10:52:34 INFO	FlipOwner: Sector 6-14
+2023-06-02 10:52:34 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:17:03 INFO	loader.lua: loader initialized
+2023-06-02 11:17:03 INFO	startInit:  false
+2023-06-02 11:17:03 INFO	loadFromPersistence:  false
+2023-06-02 11:18:03 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:18:03 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:18:03 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.15789473684211 | numberToCapture: 1
+2023-06-02 11:18:03 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:18:03 INFO	FlipOwner: Sector 3-11
+2023-06-02 11:18:03 INFO	flipping hexes:  RED has captured Sector 3-11 !
+2023-06-02 11:18:03 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:18:31 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:18:31 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:18:31 INFO	FlipOwner: Sector 3-11
+2023-06-02 11:18:31 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.47368421052632 | numberToCapture: 3
+2023-06-02 11:18:31 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:18:31 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:18:31 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:18:31 INFO	FlipOwner: Sector 3-11
+2023-06-02 11:18:31 INFO	flipping hexes:  RED has captured Sector 3-11 !
+2023-06-02 11:18:31 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:20:32 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:20:32 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:20:32 INFO	FlipOwner: Sector 3-11
+2023-06-02 11:20:32 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.47368421052632 | numberToCapture: 3
+2023-06-02 11:20:32 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:20:32 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:20:32 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:20:32 INFO	FlipOwner: Sector 3-11
+2023-06-02 11:20:32 INFO	flipping hexes:  RED has captured Sector 3-11 !
+2023-06-02 11:20:32 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:23:25 INFO	loader.lua: loader initialized
+2023-06-02 11:23:25 INFO	startInit:  false
+2023-06-02 11:23:25 INFO	loadFromPersistence:  false
+2023-06-02 11:24:25 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:24:25 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:24:25 INFO	Flip Owner:  Sector 3-11
+2023-06-02 11:24:25 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.61538461538462 | numberToCapture: 4
+2023-06-02 11:24:25 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:24:25 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:24:25 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:24:25 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:24:25 INFO	Flip Owner:  Sector 3-11
+2023-06-02 11:24:25 INFO	flipping hexes:  RED has captured Sector 3-11 !
+2023-06-02 11:24:25 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:25:33 INFO	loader.lua: loader initialized
+2023-06-02 11:25:33 INFO	startInit:  false
+2023-06-02 11:25:33 INFO	loadFromPersistence:  false
+2023-06-02 11:26:33 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:26:33 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:26:33 INFO	Flip Owner:  Sector 3-11 flipped to: 1
+2023-06-02 11:26:33 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.43835616438356 | numberToCapture: 2
+2023-06-02 11:26:33 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:26:33 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:26:33 INFO	Flip Owner:  Sector 3-11 flipped to: 2
+2023-06-02 11:26:33 INFO	flipping hexes:  RED has captured Sector 3-11 !
+2023-06-02 11:26:33 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:28:11 INFO	loader.lua: loader initialized
+2023-06-02 11:28:11 INFO	startInit:  false
+2023-06-02 11:28:11 INFO	loadFromPersistence:  false
+2023-06-02 11:29:11 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:29:11 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:29:11 INFO	Flip Owner:  Sector 3-11 flipped to: 1
+2023-06-02 11:29:11 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.5 | numberToCapture: 3
+2023-06-02 11:29:11 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:29:11 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:29:11 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:29:11 INFO	Flip Owner:  Sector 3-11 flipped to: 2
+2023-06-02 11:29:11 INFO	flipping hexes:  RED has captured Sector 3-11 !
+2023-06-02 11:29:11 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:30:52 INFO	loader.lua: loader initialized
+2023-06-02 11:30:52 INFO	startInit:  false
+2023-06-02 11:30:52 INFO	loadFromPersistence:  false
+2023-06-02 11:31:52 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:31:52 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:31:52 INFO	Flip Owner:  Sector 3-11 flipped to: 1
+2023-06-02 11:31:52 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.5 | numberToCapture: 3
+2023-06-02 11:31:52 INFO	weakest hex calc:  weakest hex added:  Sector 4-18 0
+2023-06-02 11:31:52 INFO	weakest hex calc:  weakest hex added:  Sector 2-18 0
+2023-06-02 11:31:52 INFO	weakest hex calc:  weakest hex added:  Sector 4-10 0
+2023-06-02 11:31:52 INFO	Flip Owner:  Sector 2-18 flipped to: 2
+2023-06-02 11:31:52 INFO	flipping hexes:  RED has captured Sector 2-18 !
+2023-06-02 11:31:52 INFO	Flip Owner:  Sector 3-11 flipped to: 2
+2023-06-02 11:31:52 INFO	flipping hexes:  RED has captured Sector 3-11 !
+2023-06-02 11:31:52 INFO	Flip Owner:  Sector 4-18 flipped to: 2
+2023-06-02 11:31:52 INFO	flipping hexes:  RED has captured Sector 4-18 !
+2023-06-02 11:31:52 INFO	Flip Owner:  Sector 4-10 flipped to: 2
+2023-06-02 11:31:52 INFO	flipping hexes:  RED has captured Sector 4-10 !
+2023-06-02 11:31:52 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:33:54 INFO	loader.lua: loader initialized
+2023-06-02 11:33:54 INFO	startInit:  true
+2023-06-02 11:33:54 INFO	loadFromPersistence:  false
+2023-06-02 11:34:14 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:34:14 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:34:14 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 11:34:14 INFO	strength:  winner count: 28 | loser count: 27
+2023-06-02 11:35:21 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:35:21 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:35:21 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.38613861386139 | numberToCapture: 2
+2023-06-02 11:35:21 INFO	strength:  winner count: 28 | loser count: 20.2
+2023-06-02 11:35:21 INFO	weakest hex calc:  weakest hex added:  Sector 3-11 0
+2023-06-02 11:35:21 INFO	weakest hex calc:  weakest hex added:  Sector 4-18 0
+2023-06-02 11:35:21 INFO	Flip Owner:  Sector 3-11 flipped to: 2
+2023-06-02 11:35:21 INFO	flipping hexes:  BLUE has captured Sector 3-11 !
+2023-06-02 11:35:21 INFO	Flip Owner:  Sector 4-18 flipped to: 2
+2023-06-02 11:35:21 INFO	flipping hexes:  BLUE has captured Sector 4-18 !
+2023-06-02 11:35:21 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:37:31 INFO	loader.lua: loader initialized
+2023-06-02 11:37:31 INFO	startInit:  true
+2023-06-02 11:37:31 INFO	loadFromPersistence:  false
+2023-06-02 11:38:31 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:38:31 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:38:31 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.33333333333333 | numberToCapture: 2
+2023-06-02 11:38:31 INFO	strength:  winner count: 28 | loser count: 21
+2023-06-02 11:38:31 INFO	weakest hex calc:  weakest hex added:  Sector 6-10 1
+2023-06-02 11:38:31 INFO	weakest hex calc:  weakest hex added:  Sector 6-8 5
+2023-06-02 11:38:31 INFO	Flip Owner:  Sector 6-10 flipped to: 1
+2023-06-02 11:38:31 INFO	flipping hexes:  RED has captured Sector 6-10 !
+2023-06-02 11:38:31 INFO	Flip Owner:  Sector 6-8 flipped to: 1
+2023-06-02 11:38:31 INFO	flipping hexes:  RED has captured Sector 6-8 !
+2023-06-02 11:38:31 INFO	group clear:  cleared groups in all hexes.
+2023-06-02 11:43:03 INFO	loader.lua: loader initialized
+2023-06-02 11:43:03 INFO	startInit:  false
+2023-06-02 11:43:03 INFO	loadFromPersistence:  false
+2023-06-02 11:44:03 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:44:03 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:44:03 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.047619047619048 | numberToCapture: 0
+2023-06-02 11:44:03 INFO	strength:  winner count: 22 | loser count: 21
+2023-06-02 11:44:49 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:44:49 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:44:49 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.047619047619048 | numberToCapture: 0
+2023-06-02 11:44:49 INFO	strength:  winner count: 22 | loser count: 21
+2023-06-02 11:45:30 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:45:30 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:45:30 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.3125 | numberToCapture: 2
+2023-06-02 11:45:30 INFO	strength:  winner count: 21 | loser count: 16
+2023-06-02 11:45:30 INFO	weakest hex calc:  weakest hex added:  Sector 6-10 0
+2023-06-02 11:45:30 INFO	weakest hex calc:  weakest hex added:  Sector 5-11 1
+2023-06-02 11:45:30 INFO	Flip Owner:  Sector 6-10 flipped to: 2
+2023-06-02 11:45:30 INFO	flipping hexes:  BLUE has captured Sector 6-10 !
+2023-06-02 11:45:30 INFO	Flip Owner:  Sector 5-11 flipped to: 2
+2023-06-02 11:45:30 INFO	flipping hexes:  BLUE has captured Sector 5-11 !
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 4-18
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 2-18
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 4-14
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 7-13
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 7-17
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 9-9
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 8-10
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 8-12
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 9-11
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 9-13
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 3-15
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 7-15
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 3-9
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 6-14
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 5-15
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 9-7
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 3-13
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 7-9
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 7-11
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 5-9
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 2-12
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 5-13
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 4-12
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 6-10
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 2-14
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 3-17
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 3-11
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 6-12
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 5-11
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 8-14
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 5-17
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 4-16
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 2-10
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 4-10
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 6-8
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 2-16
+2023-06-02 11:45:30 INFO	group clear:  cleared groups in Sector 8-8
+2023-06-02 11:50:08 INFO	loader.lua: loader initialized
+2023-06-02 11:50:08 INFO	startInit:  false
+2023-06-02 11:50:08 INFO	loadFromPersistence:  false
+2023-06-02 11:50:43 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:50:43 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:50:43 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.22727272727273 | numberToCapture: 1
+2023-06-02 11:50:43 INFO	strength:  winner count: 27 | loser count: 22
+2023-06-02 11:50:43 INFO	weakest hex calc:  weakest hex added:  Sector 5-11 2
+2023-06-02 11:50:43 INFO	Flip Owner:  Sector 5-11 flipped to: 1
+2023-06-02 11:50:43 INFO	flipping hexes:  RED has captured Sector 5-11 !
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 4-18
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 2-18
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 4-14
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 7-13
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 7-17
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 9-9
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 8-10
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 8-12
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 9-11
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 9-13
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 3-15
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 7-15
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 3-9
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 6-14
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 5-15
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 9-7
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 3-13
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 7-9
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 7-11
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 5-9
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 2-12
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 5-13
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 4-12
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 6-10
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 2-14
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 3-17
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 3-11
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 6-12
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 5-11
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 8-14
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 5-17
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 4-16
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 2-10
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 4-10
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 6-8
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 2-16
+2023-06-02 11:50:43 INFO	group clear:  cleared groups in Sector 8-8
+2023-06-02 11:55:08 INFO	loader.lua: loader initialized
+2023-06-02 11:55:08 INFO	startInit:  false
+2023-06-02 11:55:08 INFO	loadFromPersistence:  false
+2023-06-02 11:55:54 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:55:54 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:55:54 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.21739130434783 | numberToCapture: 1
+2023-06-02 11:55:54 INFO	strength:  winner count: 28 | loser count: 23
+2023-06-02 11:55:54 INFO	weakest hex calc:  weakest hex added:  Sector 6-12 4
+2023-06-02 11:55:54 INFO	Flip Owner:  Sector 6-12 flipped to: 1
+2023-06-02 11:55:54 INFO	flipping hexes:  RED has captured Sector 6-12 !
+2023-06-02 11:55:54 INFO	group clear:  cleared groups everywhere
+2023-06-02 11:55:54 INFO	TE1 spawning::  Sector 6-8 1 5
+2023-06-02 11:55:54 INFO	TE1 spawning::  Sector 6-12 1 5
+2023-06-02 11:55:54 INFO	TE1 spawning::  Sector 5-11 1 4
+2023-06-02 11:55:54 INFO	TE1 spawning::  Sector 5-9 1 4
+2023-06-02 11:55:54 INFO	TE1 spawning::  Sector 5-13 1 4
+2023-06-02 11:55:54 INFO	TE1 spawning::  Sector 5-15 1 4
+2023-06-02 11:58:15 INFO	loader.lua: loader initialized
+2023-06-02 11:58:15 INFO	startInit:  false
+2023-06-02 11:58:15 INFO	loadFromPersistence:  false
+2023-06-02 11:59:15 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 11:59:15 INFO	te.controlLoopV2: tick starting
+2023-06-02 11:59:15 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.64705882352941 | numberToCapture: 4
+2023-06-02 11:59:15 INFO	strength:  winner count: 28 | loser count: 17
+2023-06-02 11:59:15 INFO	weakest hex calc:  weakest hex added:  Sector 5-11 0
+2023-06-02 11:59:15 INFO	weakest hex calc:  weakest hex added:  Sector 6-12 0
+2023-06-02 11:59:15 INFO	weakest hex calc:  weakest hex added:  Sector 5-9 4
+2023-06-02 11:59:15 INFO	weakest hex calc:  weakest hex added:  Sector 5-13 4
+2023-06-02 11:59:16 INFO	Flip Owner:  Sector 5-13 flipped to: 2
+2023-06-02 11:59:16 INFO	flipping hexes:  BLUE has captured Sector 5-13 !
+2023-06-02 11:59:16 INFO	Flip Owner:  Sector 5-9 flipped to: 2
+2023-06-02 11:59:16 INFO	flipping hexes:  BLUE has captured Sector 5-9 !
+2023-06-02 11:59:16 INFO	Flip Owner:  Sector 6-12 flipped to: 2
+2023-06-02 11:59:16 INFO	flipping hexes:  BLUE has captured Sector 6-12 !
+2023-06-02 11:59:16 INFO	Flip Owner:  Sector 5-11 flipped to: 2
+2023-06-02 11:59:16 INFO	flipping hexes:  BLUE has captured Sector 5-11 !
+2023-06-02 11:59:16 INFO	group clear:  cleared groups everywhere
+2023-06-02 11:59:16 INFO	TE1 spawning::  Sector 6-8 1 15
+2023-06-02 11:59:16 INFO	TE1 spawning::  Sector 5-15 1 14
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 5-13 2 -0
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 6-14 2 -0
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 6-10 2 -0
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 7-9 2 -0
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 5-9 2 -0
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 7-13 2 -nan(ind)
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 7-11 2 -nan(ind)
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 6-12 2 -nan(ind)
+2023-06-02 11:59:16 INFO	TE2 spawning::  Sector 5-11 2 -nan(ind)
+2023-06-02 12:05:37 INFO	loader.lua: loader initialized
+2023-06-02 12:05:37 INFO	startInit:  false
+2023-06-02 12:05:37 INFO	loadFromPersistence:  false
+2023-06-02 12:06:37 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:06:37 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:06:37 INFO	Flip Owner:  Sector 6-8 flipped to: 2
+2023-06-02 12:06:37 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.25925925925926 | numberToCapture: 1
+2023-06-02 12:06:37 INFO	strength:  winner count: 27 | loser count: 20
+2023-06-02 12:06:37 INFO	weakest hex calc:  weakest hex added:  Sector 5-13 1
+2023-06-02 12:06:37 INFO	Flip Owner:  Sector 6-8 flipped to: 1
+2023-06-02 12:06:37 INFO	flipping hexes:  RED has captured Sector 6-8 !
+2023-06-02 12:06:37 INFO	Flip Owner:  Sector 5-13 flipped to: 1
+2023-06-02 12:06:37 INFO	flipping hexes:  RED has captured Sector 5-13 !
+2023-06-02 12:06:37 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:06:37 INFO	TE1 spawning::  Sector 6-8 1 7
+2023-06-02 12:06:37 INFO	TE1 spawning::  Sector 5-13 1 6
+2023-06-02 12:06:37 INFO	TE1 spawning::  Sector 4-10 1 6
+2023-06-02 12:06:37 INFO	TE1 spawning::  Sector 5-15 1 5
+2023-06-02 12:06:37 INFO	TE1 spawning::  Sector 4-12 1 5
+2023-06-02 12:06:37 INFO	TE2 spawning::  Sector 5-11 2 8
+2023-06-02 12:06:37 INFO	TE2 spawning::  Sector 6-14 2 7
+2023-06-02 12:06:37 INFO	TE2 spawning::  Sector 6-12 2 6
+2023-06-02 12:06:37 INFO	TE2 spawning::  Sector 5-9 2 5
+2023-06-02 12:06:37 INFO	TE2 spawning::  Sector 7-9 2 1
+2023-06-02 12:06:37 INFO	TE2 spawning::  Sector 6-10 2 1
+2023-06-02 12:06:38 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:06:38 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:06:38 INFO	Flip Owner:  Sector 6-8 flipped to: 2
+2023-06-02 12:06:39 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 12:06:39 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-02 12:06:39 INFO	Flip Owner:  Sector 6-8 flipped to: 1
+2023-06-02 12:06:39 INFO	flipping hexes: 
+2023-06-02 12:09:24 INFO	loader.lua: loader initialized
+2023-06-02 12:09:24 INFO	startInit:  false
+2023-06-02 12:09:24 INFO	loadFromPersistence:  false
+2023-06-02 12:10:17 INFO	loader.lua: loader initialized
+2023-06-02 12:10:17 INFO	startInit:  false
+2023-06-02 12:10:17 INFO	loadFromPersistence:  false
+2023-06-02 12:10:52 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:10:52 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:10:52 INFO	surrounded:  Sector 6-8 flipped due to being surrounded
+2023-06-02 12:10:52 INFO	Flip Owner:  Sector 6-8 flipped to: 2
+2023-06-02 12:10:52 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 12:10:52 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-02 12:10:52 INFO	Flip Owner:  Sector 6-8 flipped to: 1
+2023-06-02 12:10:52 INFO	flipping hexes: 
+2023-06-02 12:11:54 INFO	loader.lua: loader initialized
+2023-06-02 12:11:54 INFO	startInit:  false
+2023-06-02 12:11:54 INFO	loadFromPersistence:  false
+2023-06-02 12:12:18 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:12:18 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:12:18 INFO	surrounded:  Sector 6-8 flipped due to being surrounded
+2023-06-02 12:12:18 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 12:12:18 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-02 12:12:18 INFO	Flip Owner:  Sector 6-8 flipped to: 2
+2023-06-02 12:12:18 INFO	flipping hexes: 
+2023-06-02 12:12:42 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:12:42 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:12:42 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.08695652173913 | numberToCapture: 0
+2023-06-02 12:12:42 INFO	strength:  winner count: 23 | loser count: 21
+2023-06-02 12:14:31 INFO	loader.lua: loader initialized
+2023-06-02 12:14:31 INFO	startInit:  false
+2023-06-02 12:14:31 INFO	loadFromPersistence:  false
+2023-06-02 12:15:23 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:15:23 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:15:23 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.14814814814815 | numberToCapture: 0
+2023-06-02 12:15:23 INFO	strength:  winner count: 27 | loser count: 23
+2023-06-02 12:15:34 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:15:34 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:15:34 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.18518518518519 | numberToCapture: 1
+2023-06-02 12:15:34 INFO	strength:  winner count: 27 | loser count: 22
+2023-06-02 12:15:34 INFO	weakest hex calc:  weakest hex added:  Sector 5-11 2
+2023-06-02 12:15:34 INFO	Flip Owner:  Sector 5-11 flipped to: 1
+2023-06-02 12:15:35 INFO	flipping hexes:  RED has captured Sector 5-11 !
+2023-06-02 12:15:35 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:15:35 INFO	TE1 spawning::  Sector 5-13 1 8
+2023-06-02 12:15:35 INFO	TE1 spawning::  Sector 5-11 1 8
+2023-06-02 12:15:35 INFO	TE1 spawning::  Sector 5-15 1 6
+2023-06-02 12:15:35 INFO	TE1 spawning::  Sector 4-10 1 6
+2023-06-02 12:15:35 INFO	TE2 spawning::  Sector 6-12 2 7
+2023-06-02 12:15:35 INFO	TE2 spawning::  Sector 6-14 2 7
+2023-06-02 12:15:35 INFO	TE2 spawning::  Sector 5-9 2 7
+2023-06-02 12:15:35 INFO	TE2 spawning::  Sector 6-10 2 6
+2023-06-02 12:19:29 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:19:29 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:19:29 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.22222222222222 | numberToCapture: 1
+2023-06-02 12:19:29 INFO	strength:  winner count: 27 | loser count: 21
+2023-06-02 12:19:29 INFO	weakest hex calc:  weakest hex added:  Sector 6-10 0
+2023-06-02 12:19:29 INFO	Flip Owner:  Sector 6-10 flipped to: 1
+2023-06-02 12:19:30 INFO	flipping hexes:  RED has captured Sector 6-10 !
+2023-06-02 12:19:30 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:19:30 INFO	TE1 spawning::  Sector 5-13 1 6
+2023-06-02 12:19:30 INFO	TE1 spawning::  Sector 6-10 1 6
+2023-06-02 12:19:30 INFO	TE1 spawning::  Sector 5-11 1 6
+2023-06-02 12:19:30 INFO	TE1 spawning::  Sector 5-15 1 5
+2023-06-02 12:19:30 INFO	TE1 spawning::  Sector 4-10 1 5
+2023-06-02 12:19:30 INFO	TE2 spawning::  Sector 6-12 2 -0
+2023-06-02 12:19:30 INFO	TE2 spawning::  Sector 6-14 2 -0
+2023-06-02 12:19:30 INFO	TE2 spawning::  Sector 5-9 2 -0
+2023-06-02 12:19:30 INFO	TE2 spawning::  Sector 7-11 2 -nan(ind)
+2023-06-02 12:19:30 INFO	TE2 spawning::  Sector 7-9 2 -nan(ind)
+2023-06-02 12:19:30 INFO	TE2 spawning::  Sector 6-8 2 -nan(ind)
+2023-06-02 12:22:21 INFO	loader.lua: loader initialized
+2023-06-02 12:22:21 INFO	startInit:  false
+2023-06-02 12:22:21 INFO	loadFromPersistence:  false
+2023-06-02 12:23:08 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:23:08 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:23:08 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 12:23:08 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-02 12:23:25 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:23:25 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:23:25 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.08695652173913 | numberToCapture: 0
+2023-06-02 12:23:25 INFO	strength:  winner count: 23 | loser count: 21
+2023-06-02 12:24:03 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:24:03 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:24:03 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.21739130434783 | numberToCapture: 1
+2023-06-02 12:24:03 INFO	strength:  winner count: 23 | loser count: 18
+2023-06-02 12:24:03 INFO	weakest hex calc:  weakest hex added:  Sector 5-13 1
+2023-06-02 12:24:03 INFO	Flip Owner:  Sector 5-13 flipped to: 2
+2023-06-02 12:24:03 INFO	flipping hexes:  BLUE has captured Sector 5-13 !
+2023-06-02 12:24:03 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:24:03 INFO	TE1 spawning::  Sector 6-10 1 6
+2023-06-02 12:24:03 INFO	TE1 spawning::  Sector 5-11 1 5
+2023-06-02 12:24:03 INFO	TE1 spawning::  Sector 5-15 1 5
+2023-06-02 12:24:03 INFO	TE1 spawning::  Sector 4-14 1 4
+2023-06-02 12:24:03 INFO	TE1 spawning::  Sector 4-12 1 4
+2023-06-02 12:24:03 INFO	TE1 spawning::  Sector 4-10 1 3
+2023-06-02 12:24:03 INFO	TE2 spawning::  Sector 5-9 2 5
+2023-06-02 12:24:03 INFO	TE2 spawning::  Sector 5-13 2 4
+2023-06-02 12:24:03 INFO	TE2 spawning::  Sector 6-12 2 4
+2023-06-02 12:24:03 INFO	TE2 spawning::  Sector 6-14 2 3
+2023-06-02 12:24:03 INFO	TE2 spawning::  Sector 7-9 2 3
+2023-06-02 12:24:03 INFO	TE2 spawning::  Sector 7-11 2 3
+2023-06-02 12:24:03 INFO	TE2 spawning::  Sector 6-8 2 3
+2023-06-02 12:24:59 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:24:59 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:24:59 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.045454545454545 | numberToCapture: 0
+2023-06-02 12:24:59 INFO	strength:  winner count: 22 | loser count: 21
+2023-06-02 12:26:12 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:26:12 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:26:12 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.31818181818182 | numberToCapture: 2
+2023-06-02 12:26:12 INFO	strength:  winner count: 22 | loser count: 15
+2023-06-02 12:26:12 INFO	weakest hex calc:  weakest hex added:  Sector 5-11 1
+2023-06-02 12:26:12 INFO	weakest hex calc:  weakest hex added:  Sector 6-10 2
+2023-06-02 12:26:12 INFO	Flip Owner:  Sector 6-10 flipped to: 2
+2023-06-02 12:26:12 INFO	flipping hexes:  BLUE has captured Sector 6-10 !
+2023-06-02 12:26:12 INFO	Flip Owner:  Sector 5-11 flipped to: 2
+2023-06-02 12:26:12 INFO	flipping hexes:  BLUE has captured Sector 5-11 !
+2023-06-02 12:26:12 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:26:12 INFO	TE1 spawning::  Sector 4-12 1 8
+2023-06-02 12:26:12 INFO	TE1 spawning::  Sector 5-15 1 7
+2023-06-02 12:26:12 INFO	TE1 spawning::  Sector 4-10 1 7
+2023-06-02 12:26:12 INFO	TE1 spawning::  Sector 4-14 1 6
+2023-06-02 12:26:12 INFO	TE2 spawning::  Sector 5-11 2 7
+2023-06-02 12:26:12 INFO	TE2 spawning::  Sector 5-9 2 7
+2023-06-02 12:26:12 INFO	TE2 spawning::  Sector 5-13 2 7
+2023-06-02 12:26:12 INFO	TE2 spawning::  Sector 6-14 2 7
+2023-06-02 12:27:01 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:27:01 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:27:01 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.21428571428571 | numberToCapture: 1
+2023-06-02 12:27:01 INFO	strength:  winner count: 28 | loser count: 22
+2023-06-02 12:27:01 INFO	weakest hex calc:  weakest hex added:  Sector 5-13 2
+2023-06-02 12:27:01 INFO	Flip Owner:  Sector 5-13 flipped to: 1
+2023-06-02 12:27:01 INFO	flipping hexes:  RED has captured Sector 5-13 !
+2023-06-02 12:27:01 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:27:01 INFO	TE1 spawning::  Sector 5-13 1 8
+2023-06-02 12:27:01 INFO	TE1 spawning::  Sector 4-10 1 7
+2023-06-02 12:27:01 INFO	TE1 spawning::  Sector 4-12 1 6
+2023-06-02 12:27:01 INFO	TE1 spawning::  Sector 5-15 1 6
+2023-06-02 12:27:01 INFO	TE2 spawning::  Sector 5-11 2 8
+2023-06-02 12:27:01 INFO	TE2 spawning::  Sector 6-14 2 8
+2023-06-02 12:27:01 INFO	TE2 spawning::  Sector 6-12 2 6
+2023-06-02 12:27:01 INFO	TE2 spawning::  Sector 5-9 2 6
+2023-06-02 12:33:53 INFO	loader.lua: loader initialized
+2023-06-02 12:33:53 INFO	startInit:  false
+2023-06-02 12:33:53 INFO	loadFromPersistence:  false
+2023-06-02 12:34:40 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:34:40 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:34:40 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.18518518518519 | numberToCapture: 1
+2023-06-02 12:34:40 INFO	strength:  winner count: 27 | loser count: 22
+2023-06-02 12:34:40 INFO	weakest hex calc:  weakest hex added:  Sector 5-11 2
+2023-06-02 12:34:40 INFO	Flip Owner:  Sector 5-11 flipped to: 1
+2023-06-02 12:34:40 INFO	flipping hexes:  RED has captured Sector 5-11 !
+2023-06-02 12:35:32 INFO	loader.lua: loader initialized
+2023-06-02 12:35:32 INFO	startInit:  false
+2023-06-02 12:35:32 INFO	loadFromPersistence:  false
+2023-06-02 12:36:10 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:36:10 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:36:10 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.25 | numberToCapture: 1
+2023-06-02 12:36:10 INFO	strength:  winner count: 28 | loser count: 21
+2023-06-02 12:36:10 INFO	weakest hex calc:  weakest hex added:  Sector 6-10 0
+2023-06-02 12:36:10 INFO	Flip Owner:  Sector 6-10 flipped to: 1
+2023-06-02 12:36:10 INFO	flipping hexes:  RED has captured Sector 6-10 !
+2023-06-02 12:36:10 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:36:10 INFO	TE1 spawning::  Sector 5-13 1 6
+2023-06-02 12:36:10 INFO	TE1 spawning::  Sector 6-10 1 6
+2023-06-02 12:36:10 INFO	TE1 spawning::  Sector 5-11 1 6
+2023-06-02 12:36:10 INFO	TE1 spawning::  Sector 5-15 1 5
+2023-06-02 12:36:10 INFO	TE1 spawning::  Sector 4-10 1 5
+2023-06-02 12:36:10 INFO	TE2 spawning::  Sector 6-12 2 5
+2023-06-02 12:36:10 INFO	TE2 spawning::  Sector 5-9 2 5
+2023-06-02 12:36:10 INFO	TE2 spawning::  Sector 6-14 2 5
+2023-06-02 12:36:10 INFO	TE2 spawning::  Sector 7-11 2 4
+2023-06-02 12:36:10 INFO	TE2 spawning::  Sector 7-9 2 4
+2023-06-02 12:36:10 INFO	TE2 spawning::  Sector 6-8 2 4
+2023-06-02 12:36:30 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:36:30 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:36:30 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.17857142857143 | numberToCapture: 1
+2023-06-02 12:36:30 INFO	strength:  winner count: 28 | loser count: 23
+2023-06-02 12:36:30 INFO	weakest hex calc:  weakest hex added:  Sector 7-11 0
+2023-06-02 12:36:30 INFO	Flip Owner:  Sector 7-11 flipped to: 1
+2023-06-02 12:36:31 INFO	flipping hexes:  RED has captured Sector 7-11 !
+2023-06-02 12:36:31 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:36:31 INFO	TE1 spawning::  Sector 5-13 1 5
+2023-06-02 12:36:31 INFO	TE1 spawning::  Sector 5-11 1 5
+2023-06-02 12:36:31 INFO	TE1 spawning::  Sector 6-10 1 5
+2023-06-02 12:36:31 INFO	TE1 spawning::  Sector 7-11 1 4
+2023-06-02 12:36:31 INFO	TE1 spawning::  Sector 5-15 1 4
+2023-06-02 12:36:31 INFO	TE1 spawning::  Sector 4-10 1 4
+2023-06-02 12:36:31 INFO	TE2 spawning::  Sector 6-12 2 -0
+2023-06-02 12:36:31 INFO	TE2 spawning::  Sector 5-9 2 -0
+2023-06-02 12:36:31 INFO	TE2 spawning::  Sector 6-14 2 -0
+2023-06-02 12:36:31 INFO	TE2 spawning::  Sector 7-9 2 -0
+2023-06-02 12:36:31 INFO	TE2 spawning::  Sector 6-8 2 -0
+2023-06-02 12:36:31 INFO	TE2 spawning::  Sector 8-10 2 -nan(ind)
+2023-06-02 12:36:31 INFO	TE2 spawning::  Sector 8-12 2 -nan(ind)
+2023-06-02 12:36:31 INFO	TE2 spawning::  Sector 7-13 2 -nan(ind)
+2023-06-02 12:36:48 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:36:48 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:36:48 INFO	strength:  winner: 1 | loser: 2 | ratio: 1 | numberToCapture: 6
+2023-06-02 12:36:48 INFO	strength:  winner count: 27 | loser count: 0
+2023-06-02 12:36:48 INFO	weakest hex calc:  weakest hex added:  Sector 5-9 0
+2023-06-02 12:36:48 INFO	weakest hex calc:  weakest hex added:  Sector 8-12 0
+2023-06-02 12:36:48 INFO	weakest hex calc:  weakest hex added:  Sector 7-13 0
+2023-06-02 12:36:48 INFO	weakest hex calc:  weakest hex added:  Sector 6-12 0
+2023-06-02 12:36:48 INFO	weakest hex calc:  weakest hex added:  Sector 6-8 0
+2023-06-02 12:36:48 INFO	weakest hex calc:  weakest hex added:  Sector 6-14 0
+2023-06-02 12:36:48 INFO	Flip Owner:  Sector 8-12 flipped to: 1
+2023-06-02 12:36:48 INFO	flipping hexes:  RED has captured Sector 8-12 !
+2023-06-02 12:36:48 INFO	Flip Owner:  Sector 7-13 flipped to: 1
+2023-06-02 12:36:48 INFO	flipping hexes:  RED has captured Sector 7-13 !
+2023-06-02 12:36:48 INFO	Flip Owner:  Sector 6-8 flipped to: 1
+2023-06-02 12:36:48 INFO	flipping hexes:  RED has captured Sector 6-8 !
+2023-06-02 12:36:48 INFO	Flip Owner:  Sector 6-14 flipped to: 1
+2023-06-02 12:36:48 INFO	flipping hexes:  RED has captured Sector 6-14 !
+2023-06-02 12:36:48 INFO	Flip Owner:  Sector 6-12 flipped to: 1
+2023-06-02 12:36:48 INFO	flipping hexes:  RED has captured Sector 6-12 !
+2023-06-02 12:36:48 INFO	Flip Owner:  Sector 5-9 flipped to: 1
+2023-06-02 12:36:48 INFO	flipping hexes:  RED has captured Sector 5-9 !
+2023-06-02 12:36:49 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:36:49 INFO	TE1 spawning::  Sector 7-13 1 -nan(ind)
+2023-06-02 12:36:49 INFO	TE1 spawning::  Sector 7-11 1 -nan(ind)
+2023-06-02 12:36:49 INFO	TE1 spawning::  Sector 6-10 1 -nan(ind)
+2023-06-02 12:36:49 INFO	TE1 spawning::  Sector 6-14 1 -nan(ind)
+2023-06-02 12:36:49 INFO	TE1 spawning::  Sector 8-12 1 -nan(ind)
+2023-06-02 12:36:49 INFO	TE1 spawning::  Sector 6-8 1 -nan(ind)
+2023-06-02 12:36:49 INFO	TE2 spawning::  Sector 7-9 2 -0
+2023-06-02 12:36:49 INFO	TE2 spawning::  Sector 7-15 2 -0
+2023-06-02 12:36:49 INFO	TE2 spawning::  Sector 8-10 2 -nan(ind)
+2023-06-02 12:36:49 INFO	TE2 spawning::  Sector 9-13 2 -nan(ind)
+2023-06-02 12:36:49 INFO	TE2 spawning::  Sector 9-11 2 -nan(ind)
+2023-06-02 12:36:49 INFO	TE2 spawning::  Sector 8-14 2 -nan(ind)
+2023-06-02 12:37:36 INFO	loader.lua: loader initialized
+2023-06-02 12:37:36 INFO	startInit:  true
+2023-06-02 12:37:36 INFO	loadFromPersistence:  false
+2023-06-02 12:38:04 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:38:04 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:38:04 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 12:38:04 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-02 12:38:32 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:38:32 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:38:32 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.17857142857143 | numberToCapture: 1
+2023-06-02 12:38:32 INFO	strength:  winner count: 28 | loser count: 23
+2023-06-02 12:38:32 INFO	weakest hex calc:  weakest hex added:  Sector 5-11 3
+2023-06-02 12:38:32 INFO	Flip Owner:  Sector 5-11 flipped to: 2
+2023-06-02 12:38:32 INFO	flipping hexes:  BLUE has captured Sector 5-11 !
+2023-06-02 12:38:33 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:38:33 INFO	TE1 spawning::  Sector 5-13 1 7
+2023-06-02 12:38:33 INFO	TE1 spawning::  Sector 5-9 1 7
+2023-06-02 12:38:33 INFO	TE1 spawning::  Sector 4-12 1 5
+2023-06-02 12:38:33 INFO	TE1 spawning::  Sector 4-10 1 5
+2023-06-02 12:38:33 INFO	TE1 spawning::  Sector 5-15 1 5
+2023-06-02 12:38:33 INFO	TE2 spawning::  Sector 6-14 2 6
+2023-06-02 12:38:33 INFO	TE2 spawning::  Sector 5-11 2 6
+2023-06-02 12:38:33 INFO	TE2 spawning::  Sector 6-12 2 5
+2023-06-02 12:38:33 INFO	TE2 spawning::  Sector 6-10 2 5
+2023-06-02 12:38:33 INFO	TE2 spawning::  Sector 6-8 2 5
+2023-06-02 12:39:24 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:39:24 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:39:24 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.27586206896552 | numberToCapture: 1
+2023-06-02 12:39:24 INFO	strength:  winner count: 29 | loser count: 21
+2023-06-02 12:39:24 INFO	weakest hex calc:  weakest hex added:  Sector 6-10 1
+2023-06-02 12:39:24 INFO	Flip Owner:  Sector 6-10 flipped to: 1
+2023-06-02 12:39:24 INFO	flipping hexes:  RED has captured Sector 6-10 !
+2023-06-02 12:39:24 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:39:24 INFO	TE1 spawning::  Sector 5-13 1 5
+2023-06-02 12:39:24 INFO	TE1 spawning::  Sector 6-10 1 5
+2023-06-02 12:39:24 INFO	TE1 spawning::  Sector 5-9 1 5
+2023-06-02 12:39:24 INFO	TE1 spawning::  Sector 4-12 1 4
+2023-06-02 12:39:24 INFO	TE1 spawning::  Sector 4-10 1 4
+2023-06-02 12:39:24 INFO	TE1 spawning::  Sector 5-15 1 4
+2023-06-02 12:39:24 INFO	TE2 spawning::  Sector 5-11 2 5
+2023-06-02 12:39:24 INFO	TE2 spawning::  Sector 6-12 2 5
+2023-06-02 12:39:24 INFO	TE2 spawning::  Sector 6-14 2 5
+2023-06-02 12:39:24 INFO	TE2 spawning::  Sector 6-8 2 5
+2023-06-02 12:39:24 INFO	TE2 spawning::  Sector 7-9 2 4
+2023-06-02 12:39:24 INFO	TE2 spawning::  Sector 7-11 2 4
+2023-06-02 12:44:46 INFO	loader.lua: loader initialized
+2023-06-02 12:44:46 INFO	startInit:  false
+2023-06-02 12:44:46 INFO	loadFromPersistence:  false
+2023-06-02 12:45:06 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:45:06 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:45:06 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.11111111111111 | numberToCapture: 0
+2023-06-02 12:45:06 INFO	strength:  winner count: 27 | loser count: 24
+2023-06-02 12:46:04 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:46:04 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:46:04 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.083333333333333 | numberToCapture: 0
+2023-06-02 12:46:04 INFO	strength:  winner count: 24 | loser count: 22
+2023-06-02 12:46:19 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:46:19 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:46:19 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.16666666666667 | numberToCapture: 1
+2023-06-02 12:46:19 INFO	strength:  winner count: 24 | loser count: 20
+2023-06-02 12:46:19 INFO	weakest hex calc:  weakest hex added:  Sector 5-13 1
+2023-06-02 12:46:19 INFO	Flip Owner:  Sector 5-13 flipped to: 2
+2023-06-02 12:46:19 INFO	flipping hexes:  BLUE has captured Sector 5-13 !
+2023-06-02 12:46:19 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:46:19 INFO	TE1 spawning::  Sector 6-10 1 6
+2023-06-02 12:46:19 INFO	TE1 spawning::  Sector 5-15 1 5
+2023-06-02 12:46:19 INFO	TE1 spawning::  Sector 4-12 1 5
+2023-06-02 12:46:19 INFO	TE1 spawning::  Sector 5-9 1 4
+2023-06-02 12:46:19 INFO	TE1 spawning::  Sector 4-14 1 4
+2023-06-02 12:46:19 INFO	TE1 spawning::  Sector 4-10 1 4
+2023-06-02 12:46:19 INFO	TE2 spawning::  Sector 5-11 2 5
+2023-06-02 12:46:19 INFO	TE2 spawning::  Sector 5-13 2 4
+2023-06-02 12:46:19 INFO	TE2 spawning::  Sector 6-8 2 4
+2023-06-02 12:46:19 INFO	TE2 spawning::  Sector 6-14 2 3
+2023-06-02 12:46:19 INFO	TE2 spawning::  Sector 7-11 2 3
+2023-06-02 12:46:19 INFO	TE2 spawning::  Sector 6-12 2 3
+2023-06-02 12:46:19 INFO	TE2 spawning::  Sector 7-9 2 3
+2023-06-02 12:48:51 INFO	loader.lua: loader initialized
+2023-06-02 12:48:51 INFO	startInit:  false
+2023-06-02 12:48:51 INFO	loadFromPersistence:  false
+2023-06-02 12:49:45 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:49:45 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:49:45 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.42857142857143 | numberToCapture: 2
+2023-06-02 12:49:45 INFO	strength:  winner count: 28 | loser count: 16
+2023-06-02 12:49:45 INFO	weakest hex calc:  weakest hex added:  Sector 7-11 0
+2023-06-02 12:49:45 INFO	weakest hex calc:  weakest hex added:  Sector 5-11 0
+2023-06-02 12:49:45 INFO	Flip Owner:  Sector 7-11 flipped to: 1
+2023-06-02 12:49:45 INFO	flipping hexes:  RED has captured Sector 7-11 !
+2023-06-02 12:49:45 INFO	Flip Owner:  Sector 5-11 flipped to: 1
+2023-06-02 12:49:45 INFO	flipping hexes:  RED has captured Sector 5-11 !
+2023-06-02 12:49:45 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:49:45 INFO	TE1 spawning::  Sector 6-10 1
+2023-06-02 12:53:55 INFO	loader.lua: loader initialized
+2023-06-02 12:53:55 INFO	startInit:  false
+2023-06-02 12:53:55 INFO	loadFromPersistence:  false
+2023-06-02 12:54:35 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:54:35 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:54:35 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.22222222222222 | numberToCapture: 1
+2023-06-02 12:54:35 INFO	strength:  winner count: 27 | loser count: 21
+2023-06-02 12:54:35 INFO	weakest hex calc:  weakest hex added:  Sector 7-11 0
+2023-06-02 12:54:35 INFO	Flip Owner:  Sector 7-11 flipped to: 2
+2023-06-02 12:54:35 INFO	flipping hexes:  BLUE has captured Sector 7-11 !
+2023-06-02 12:54:36 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:54:36 INFO	TE1 spawning::  Sector 6-10 1
+2023-06-02 12:55:43 INFO	loader.lua: loader initialized
+2023-06-02 12:55:43 INFO	startInit:  false
+2023-06-02 12:55:43 INFO	loadFromPersistence:  false
+2023-06-02 12:56:24 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:56:24 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:56:24 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.33333333333333 | numberToCapture: 2
+2023-06-02 12:56:24 INFO	strength:  winner count: 27 | loser count: 18
+2023-06-02 12:56:24 INFO	weakest hex calc:  weakest hex added:  Sector 7-11 0
+2023-06-02 12:56:24 INFO	weakest hex calc:  weakest hex added:  Sector 5-13 0
+2023-06-02 12:56:24 INFO	Flip Owner:  Sector 7-11 flipped to: 1
+2023-06-02 12:56:24 INFO	flipping hexes:  RED has captured Sector 7-11 !
+2023-06-02 12:56:24 INFO	Flip Owner:  Sector 5-13 flipped to: 1
+2023-06-02 12:56:24 INFO	flipping hexes:  RED has captured Sector 5-13 !
+2023-06-02 12:56:24 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:56:24 INFO	TE1 spawning::  Sector 6-10 1
+2023-06-02 12:58:32 INFO	loader.lua: loader initialized
+2023-06-02 12:58:32 INFO	startInit:  false
+2023-06-02 12:58:32 INFO	loadFromPersistence:  false
+2023-06-02 12:59:30 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 12:59:30 INFO	te.controlLoopV2: tick starting
+2023-06-02 12:59:30 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.19230769230769 | numberToCapture: 1
+2023-06-02 12:59:30 INFO	strength:  winner count: 26 | loser count: 21
+2023-06-02 12:59:30 INFO	weakest hex calc:  weakest hex added:  Sector 7-11 0
+2023-06-02 12:59:30 INFO	Flip Owner:  Sector 7-11 flipped to: 2
+2023-06-02 12:59:30 INFO	flipping hexes:  BLUE has captured Sector 7-11 !
+2023-06-02 12:59:30 INFO	group clear:  cleared groups everywhere
+2023-06-02 12:59:30 INFO	TE1 spawning::  Sector 6-10 1 7
+2023-06-02 12:59:30 INFO	TE1 spawning::  Sector 5-13 1 6
+2023-06-02 12:59:30 INFO	TE1 spawning::  Sector 5-15 1 5
+2023-06-02 12:59:30 INFO	TE1 spawning::  Sector 5-11 1 5
+2023-06-02 12:59:30 INFO	TE1 spawning::  Sector 5-9 1 4
+2023-06-02 12:59:30 INFO	TE2 spawning::  Sector 6-12 2 7
+2023-06-02 12:59:30 INFO	TE2 spawning::  Sector 6-14 2 6
+2023-06-02 12:59:30 INFO	TE2 spawning::  Sector 6-8 2 6
+2023-06-02 12:59:30 INFO	TE2 spawning::  Sector 7-9 2 5
+2023-06-02 12:59:30 INFO	TE2 spawning::  Sector 7-11 2 5
+2023-06-02 13:00:19 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 13:00:19 INFO	te.controlLoopV2: tick starting
+2023-06-02 13:00:19 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.11111111111111 | numberToCapture: 0
+2023-06-02 13:00:19 INFO	strength:  winner count: 27 | loser count: 24
+2023-06-02 13:01:57 INFO	loader.lua: loader initialized
+2023-06-02 13:01:57 INFO	startInit:  false
+2023-06-02 13:01:57 INFO	loadFromPersistence:  false
+2023-06-02 13:02:51 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 13:02:51 INFO	te.controlLoopV2: tick starting
+2023-06-02 13:02:51 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.16666666666667 | numberToCapture: 1
+2023-06-02 13:02:51 INFO	strength:  winner count: 24 | loser count: 20
+2023-06-02 13:02:51 INFO	weakest hex calc:  weakest hex added:  Sector 6-10 0
+2023-06-02 13:02:51 INFO	Flip Owner:  Sector 6-10 flipped to: 2
+2023-06-02 13:02:51 INFO	flipping hexes:  BLUE has captured Sector 6-10 !
+2023-06-02 13:02:52 INFO	group clear:  cleared groups everywhere
+2023-06-02 13:02:52 INFO	TE1 spawning::  Sector 5-11 1 7
+2023-06-02 13:02:52 INFO	TE1 spawning::  Sector 5-13 1 7
+2023-06-02 13:02:52 INFO	TE1 spawning::  Sector 5-9 1 7
+2023-06-02 13:02:52 INFO	TE1 spawning::  Sector 5-15 1 6
+2023-06-02 13:02:52 INFO	TE1 spawning::  spawned 27 units
+2023-06-02 13:02:52 INFO	TE2 spawning::  Sector 6-12 2 8
+2023-06-02 13:02:52 INFO	TE2 spawning::  spawned 8 units
+2023-06-02 13:02:52 INFO	TE2 spawning::  Sector 6-14 2 7
+2023-06-02 13:02:52 INFO	TE2 spawning::  spawned 15 units
+2023-06-02 13:02:52 INFO	TE2 spawning::  Sector 6-10 2 7
+2023-06-02 13:02:52 INFO	TE2 spawning::  spawned 22 units
+2023-06-02 13:02:52 INFO	TE2 spawning::  Sector 6-8 2 6
+2023-06-02 13:02:52 INFO	TE2 spawning::  spawned 28 units
+2023-06-02 13:05:48 INFO	loader.lua: loader initialized
+2023-06-02 13:05:48 INFO	startInit:  false
+2023-06-02 13:05:48 INFO	loadFromPersistence:  false
+2023-06-02 13:06:48 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 13:06:48 INFO	te.controlLoopV2: tick starting
+2023-06-02 13:06:48 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 13:06:48 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-02 13:07:52 INFO	loader.lua: loader initialized
+2023-06-02 13:07:52 INFO	startInit:  false
+2023-06-02 13:07:52 INFO	loadFromPersistence:  false
+2023-06-02 13:08:11 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 13:08:11 INFO	te.controlLoopV2: tick starting
+2023-06-02 13:08:11 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 13:08:11 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-02 13:29:29 INFO	loader.lua: loader initialized
+2023-06-02 13:29:29 INFO	startInit:  false
+2023-06-02 13:29:29 INFO	loadFromPersistence:  false
+2023-06-02 13:29:40 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 13:29:40 INFO	te.controlLoopV2: tick starting
+2023-06-02 13:29:40 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.041666666666667 | numberToCapture: 0
+2023-06-02 13:29:40 INFO	strength:  winner count: 24 | loser count: 23
+2023-06-02 13:29:40 INFO	2.2 infra audit RED:  0 0 0
+2023-06-02 13:29:40 INFO	2.2 infra audit BLUE:  0 0 0
+2023-06-02 13:31:42 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 13:31:42 INFO	te.controlLoopV2: tick starting
+2023-06-02 13:31:42 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-02 13:31:42 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-02 13:31:42 INFO	2.2 infra audit RED:  0 0 0
+2023-06-02 13:31:42 INFO	2.2 infra audit BLUE:  0 0 0
+2023-06-02 18:45:46 INFO	loader.lua: loader initialized
+2023-06-02 18:45:46 INFO	startInit:  false
+2023-06-02 18:45:46 INFO	loadFromPersistence:  false
+2023-06-02 18:46:45 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 18:46:45 INFO	te.controlLoopV2: tick starting
+2023-06-02 18:46:45 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 18:46:45 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-02 18:46:45 INFO	2.2 infra audit RED:  0 0 0
+2023-06-02 18:46:45 INFO	2.2 infra audit BLUE:  0 0 0
+2023-06-02 18:49:37 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 18:49:37 INFO	te.controlLoopV2: tick starting
+2023-06-02 18:49:37 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 18:49:37 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-02 18:49:37 INFO	2.2 infra audit RED:  0 0 0
+2023-06-02 18:49:37 INFO	2.2 infra audit BLUE:  0 0 0
+2023-06-02 18:50:22 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 18:50:22 INFO	te.controlLoopV2: tick starting
+2023-06-02 18:50:22 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 18:50:22 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-02 18:50:22 INFO	2.2 infra audit RED:  0 0 0
+2023-06-02 18:50:22 INFO	2.2 infra audit BLUE:  0 0 0.75
+2023-06-02 18:59:40 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 18:59:40 INFO	te.controlLoopV2: tick starting
+2023-06-02 18:59:40 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 18:59:40 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-02 18:59:40 INFO	2.2 infra audit RED:  0 0 0
+2023-06-02 18:59:40 INFO	2.2 infra audit BLUE:  0 0 0.75
+2023-06-02 19:05:49 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 19:05:49 INFO	te.controlLoopV2: tick starting
+2023-06-02 19:05:49 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 19:05:49 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-02 19:05:49 INFO	2.2 infra audit RED:  0 0 0.75
+2023-06-02 19:05:49 INFO	2.2 infra audit BLUE:  0 0 0.75
+2023-06-02 19:50:49 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 19:50:49 INFO	te.controlLoopV2: tick starting
+2023-06-02 19:50:49 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 19:50:49 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-02 19:50:49 INFO	2.2 infra audit RED:  0 0 0.75
+2023-06-02 19:50:49 INFO	2.2 infra audit BLUE:  0 0 0.75
+2023-06-02 20:35:49 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 20:35:49 INFO	te.controlLoopV2: tick starting
+2023-06-02 20:35:49 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 20:35:49 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-02 20:35:49 INFO	2.2 infra audit RED:  0 0 0.75
+2023-06-02 20:35:49 INFO	2.2 infra audit BLUE:  0 0 0.75
+2023-06-02 21:20:49 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 21:20:49 INFO	te.controlLoopV2: tick starting
+2023-06-02 21:20:49 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-02 21:20:49 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-02 21:20:49 INFO	2.2 infra audit RED:  0 0 0.75
+2023-06-02 21:20:49 INFO	2.2 infra audit BLUE:  0 0 0.75
+2023-06-02 21:25:41 INFO	loader.lua: loader initialized
+2023-06-02 21:25:41 INFO	startInit:  false
+2023-06-02 21:25:41 INFO	loadFromPersistence:  false
+2023-06-02 21:27:01 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 21:27:01 INFO	te.controlLoopV2: tick starting
+2023-06-02 21:27:01 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:27:01 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:27:23 INFO	loader.lua: loader initialized
+2023-06-02 21:27:23 INFO	startInit:  false
+2023-06-02 21:27:23 INFO	loadFromPersistence:  false
+2023-06-02 21:28:24 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 21:28:24 INFO	te.controlLoopV2: tick starting
+2023-06-02 21:28:24 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:28:24 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:30:59 INFO	loader.lua: loader initialized
+2023-06-02 21:30:59 INFO	startInit:  false
+2023-06-02 21:30:59 INFO	loadFromPersistence:  false
+2023-06-02 21:31:59 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 21:31:59 INFO	te.controlLoopV2: tick starting
+2023-06-02 21:31:59 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:31:59 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:32:21 INFO	loader.lua: loader initialized
+2023-06-02 21:32:21 INFO	startInit:  false
+2023-06-02 21:32:21 INFO	loadFromPersistence:  false
+2023-06-02 21:33:21 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 21:33:21 INFO	te.controlLoopV2: tick starting
+2023-06-02 21:33:21 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:33:21 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:33:21 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.25925925925926 | numberToCapture: 0
+2023-06-02 21:33:21 INFO	strength:  winner count: 27 | loser count: 20
+2023-06-02 21:33:25 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 21:33:25 INFO	te.controlLoopV2: tick starting
+2023-06-02 21:33:25 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:33:25 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:33:25 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.25925925925926 | numberToCapture: 0
+2023-06-02 21:33:25 INFO	strength:  winner count: 27 | loser count: 20
+2023-06-02 21:35:36 INFO	loader.lua: loader initialized
+2023-06-02 21:35:36 INFO	startInit:  false
+2023-06-02 21:35:36 INFO	loadFromPersistence:  false
+2023-06-02 21:36:27 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-02 21:36:27 INFO	te.controlLoopV2: tick starting
+2023-06-02 21:36:27 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:36:27 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0.75
+2023-06-02 21:36:27 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.2962962962963 | numberToCapture: 1
+2023-06-02 21:36:27 INFO	strength:  winner count: 27 | loser count: 19
+2023-06-02 21:36:27 INFO	weakest hex calc:  weakest hex added:  Sector 6-12 1
+2023-06-02 21:36:27 INFO	Flip Owner:  Sector 6-12 flipped to: 1
+2023-06-02 21:36:27 INFO	flipping hexes:  RED has captured Sector 6-12 !
+2023-06-02 21:36:27 INFO	group clear:  cleared groups everywhere
+2023-06-02 21:36:27 INFO	TE1 spawning:  Sector 6-12 1 6
+2023-06-02 21:36:27 INFO	TE1 spawning:  Sector 5-9 1 6
+2023-06-02 21:36:27 INFO	TE1 spawning:  Sector 5-11 1 5
+2023-06-02 21:36:27 INFO	TE1 spawning:  Sector 5-13 1 5
+2023-06-02 21:36:27 INFO	TE1 spawning:  Sector 5-15 1 5
+2023-06-02 21:36:27 INFO	TE1 SPAWN TOTAL:  spawned 27 units
+2023-06-02 21:36:27 INFO	TE2 spawning:  Sector 6-14 2 7
+2023-06-02 21:36:27 INFO	TE2 spawning:  Sector 6-10 2 7
+2023-06-02 21:36:27 INFO	TE2 spawning:  Sector 7-13 2 5
+2023-06-02 21:36:27 INFO	TE2 spawning:  Sector 7-11 2 5
+2023-06-02 21:36:27 INFO	TE2 spawning:  Sector 6-8 2 4
+2023-06-02 21:36:27 INFO	TE2SPAWN TOTAL:  spawned 28 units

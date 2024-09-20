@@ -1,0 +1,127 @@
+2023-06-29 02:14:29 INFO	loader.lua: loader initialized
+2023-06-29 02:14:29 INFO	startInit:  false
+2023-06-29 02:14:29 INFO	loadFromPersistence:  false
+2023-06-29 02:14:35 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:14:35 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:14:35 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:14:36 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:14:36 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:14:36 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:15:33 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:15:33 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:17:56 INFO	loader.lua: loader initialized
+2023-06-29 02:17:56 INFO	startInit:  false
+2023-06-29 02:17:56 INFO	loadFromPersistence:  false
+2023-06-29 02:17:59 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:17:59 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:17:59 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:18:00 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:18:00 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:18:00 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:18:13 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:18:13 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:20:26 INFO	loader.lua: loader initialized
+2023-06-29 02:20:26 INFO	startInit:  false
+2023-06-29 02:20:26 INFO	loadFromPersistence:  false
+2023-06-29 02:20:29 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:20:29 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:20:29 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:20:30 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:20:30 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:20:30 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:20:45 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:20:45 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:22:33 INFO	loader.lua: loader initialized
+2023-06-29 02:22:33 INFO	startInit:  false
+2023-06-29 02:22:33 INFO	loadFromPersistence:  false
+2023-06-29 02:22:36 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:22:36 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:22:36 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:22:37 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:22:37 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:22:37 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:22:50 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:22:50 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:24:31 INFO	loader.lua: loader initialized
+2023-06-29 02:24:31 INFO	startInit:  false
+2023-06-29 02:24:31 INFO	loadFromPersistence:  false
+2023-06-29 02:24:34 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:24:34 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:24:34 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:24:35 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:24:35 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:24:35 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:24:50 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:24:50 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:25:45 INFO	loader.lua: loader initialized
+2023-06-29 02:25:45 INFO	startInit:  false
+2023-06-29 02:25:45 INFO	loadFromPersistence:  false
+2023-06-29 02:25:48 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:25:48 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:25:48 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:25:48 INFO	INIT 2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:25:48 INFO	INIT 2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:25:48 INFO	INIT frontline distribution:  40 | # of frontlines: 15 | platoons per frontline: 3
+2023-06-29 02:26:02 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:26:02 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:26:02 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:26:02 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:26:02 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-29 02:26:02 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-29 02:26:02 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-29 02:26:02 INFO	Variance required: Red:
+2023-06-29 02:26:02 INFO	Variance required: Blue:
+2023-06-29 02:26:50 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:26:50 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:26:50 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:26:50 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:26:50 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-29 02:26:50 INFO	strength:  winner count: 45 | loser count: 34
+2023-06-29 02:26:50 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.24444444444444 | numberToCapture: 1
+2023-06-29 02:26:50 INFO	Variance required: Red:
+2023-06-29 02:26:50 INFO	Variance required: Blue:
+2023-06-29 02:26:50 INFO	attrition: Something flipped: resetting attrition values
+2023-06-29 02:26:50 INFO	weakest hex calc:  weakest hex added:  Sector 6-8 0
+2023-06-29 02:26:50 INFO	Flip Owner:  Sector 6-8 flipped to: 2
+2023-06-29 02:26:50 INFO	flipping hexes:  BLUE has captured Sector 6-8 !
+2023-06-29 02:26:50 INFO	group clear:  cleared groups everywhere
+2023-06-29 02:26:50 INFO	frontline distribution:  40 | # of frontlines: 16 | platoons per frontline: 3
+2023-06-29 02:27:46 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:27:46 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:27:46 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:27:46 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:27:46 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-29 02:27:46 INFO	strength:  winner count: 48 | loser count: 39
+2023-06-29 02:27:46 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.1875 | numberToCapture: 1
+2023-06-29 02:27:46 INFO	Variance required: Red:
+2023-06-29 02:27:46 INFO	Variance required: Blue:
+2023-06-29 02:27:46 INFO	attrition: Something flipped: resetting attrition values
+2023-06-29 02:27:46 INFO	weakest hex calc:  weakest hex added:  Sector 8-8 1
+2023-06-29 02:27:46 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-29 | coa: 1 | hex: Sector 8-8
+2023-06-29 02:27:46 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-25 | coa: 1 | hex: Sector 8-8
+2023-06-29 02:27:46 INFO	Infrastructure Repair:  Repaired: Factory 8-8 | coa: 1 | hex: Sector 8-8
+2023-06-29 02:27:46 INFO	Flip Owner:  Sector 8-8 flipped to: 2
+2023-06-29 02:27:46 INFO	flipping hexes:  BLUE has captured Sector 8-8 !
+2023-06-29 02:27:47 INFO	group clear:  cleared groups everywhere
+2023-06-29 02:27:47 INFO	frontline distribution:  40 | # of frontlines: 16 | platoons per frontline: 3
+2023-06-29 02:29:38 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-29 02:29:38 INFO	te.controlLoopV2: tick starting
+2023-06-29 02:29:38 INFO	surrounded:  Sector 8-10 flipped due to being surrounded
+2023-06-29 02:29:38 INFO	surrounded:  Sector 7-9 flipped due to being surrounded
+2023-06-29 02:29:38 INFO	2.2 infra audit RED:  depot: 3 | factory: 3 | infra: 0
+2023-06-29 02:29:38 INFO	2.2 infra audit BLUE:  depot: 3 | factory: 2 | infra: 0
+2023-06-29 02:29:38 INFO	attrition:  Winner: 0 | Loser:  0 | Difference:  0
+2023-06-29 02:29:38 INFO	strength:  winner count: 48 | loser count: 46
+2023-06-29 02:29:38 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.041666666666667 | numberToCapture: 0
+2023-06-29 02:29:38 INFO	Variance required: Red:
+2023-06-29 02:29:38 INFO	Variance required: Blue:
+2023-06-29 02:29:38 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-86 | coa: 1 | hex: Sector 8-10
+2023-06-29 02:29:38 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-20 | coa: 1 | hex: Sector 8-10
+2023-06-29 02:29:38 INFO	Flip Owner:  Sector 8-10 flipped to: 2
+2023-06-29 02:29:38 INFO	flipping hexes:  BLUE has captured Sector 8-10 !
+2023-06-29 02:29:38 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-79 | coa: 1 | hex: Sector 7-9
+2023-06-29 02:29:38 INFO	Infrastructure Repair:  Repaired: Infrastructure 1-19 | coa: 1 | hex: Sector 7-9
+2023-06-29 02:29:38 INFO	Flip Owner:  Sector 7-9 flipped to: 2
+2023-06-29 02:29:38 INFO	flipping hexes:  BLUE has captured Sector 7-9 !
+2023-06-29 02:29:38 INFO	group clear:  cleared groups everywhere
+2023-06-29 02:29:38 INFO	frontline distribution:  40 | # of frontlines: 7 | platoons per frontline: 6

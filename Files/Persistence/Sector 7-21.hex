@@ -1,0 +1,34 @@
+STARTPLATOONS
+ENDPLATOONS
+ENDDEPOTS
+Factory 7-21 18,-323299.15625,895278.75,Boiler-house A,0,false
+Factory 7-21 16,-323557.65625,895223.375,Tech hangar A,0,false
+Factory 7-21 7,-323334.03125,895417,Tank 2,0,false
+Factory 7-21 20,-323348.53125,895278.25,Boiler-house A,0,false
+Factory 7-21 3,-323312.9375,895416.8125,Tank 2,0,false
+Factory 7-21 8,-323334.03125,895438.625,Tank 2,0,false
+Factory 7-21 12,-323540.21875,895362.4375,Repair workshop,1.57079631487,false
+Factory 7-21 4,-323313.1875,895438.625,Tank 2,0,false
+Factory 7-21 9,-323334.03125,895459.4375,Tank 2,0,false
+Factory 7-21 17,-323501.53125,895499,Comms tower M,2.356194574486,false
+Factory 7-21 19,-323324.53125,895278.5,Boiler-house A,0,false
+Factory 7-21 6,-323313.1875,895479.5625,Tank 2,0,false
+Factory 7-21 10,-323334.03125,895479.5625,Tank 2,0,false
+Factory 7-21 14,-323477.25,895223.375,Tech hangar A,0,false
+Factory 7-21 5,-323313.1875,895459.4375,Tank 2,0,false
+Factory 7-21 1,-323323.25,895223.625,Workshop A,3.1415928045856,false
+Factory 7-21 2,-323323.625,895352.1875,Tech combine,3.1415928045856,false
+Factory 7-21 13,-323445.28125,895223.375,Tech hangar A,0,false
+Factory 7-21 11,-323460.78125,895361.9375,Repair workshop,1.57079631487,false
+Factory 7-21 15,-323522.28125,895223.375,Tech hangar A,0,false
+ENDFACTORIES
+Infrastructure 1-102
+DEAD|
+ACTIVE|
+Infrastructure 1-40
+DEAD|
+ACTIVE|
+Infrastructure 1-7
+DEAD|
+ACTIVE|
+ENDINFRA

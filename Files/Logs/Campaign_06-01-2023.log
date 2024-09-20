@@ -1,0 +1,75 @@
+2023-06-01 12:29:10 INFO	loader.lua: loader initialized
+2023-06-01 12:30:16 INFO	loader.lua: loader initialized
+2023-06-01 12:31:57 INFO	loader.lua: loader initialized
+2023-06-01 12:33:11 INFO	loader.lua: loader initialized
+2023-06-01 12:33:11 INFO	startInit:  true
+2023-06-01 12:33:11 INFO	loadFromPersistence:  false
+2023-06-01 12:33:22 INFO	te.controlLoopV2: tick starting
+2023-06-01 12:34:28 INFO	te.controlLoopV2: tick starting
+2023-06-01 12:35:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 13:20:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 14:05:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 14:50:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 15:35:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 16:20:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 17:05:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 17:50:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 18:35:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 19:20:12 INFO	te.controlLoopV2: tick starting
+2023-06-01 19:59:59 INFO	loader.lua: loader initialized
+2023-06-01 19:59:59 INFO	startInit:  false
+2023-06-01 19:59:59 INFO	loadFromPersistence:  false
+2023-06-01 20:00:05 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:02:24 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:07:11 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:33:05 INFO	loader.lua: loader initialized
+2023-06-01 20:33:05 INFO	startInit:  false
+2023-06-01 20:33:05 INFO	loadFromPersistence:  false
+2023-06-01 20:33:16 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:34:33 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:35:45 INFO	loader.lua: loader initialized
+2023-06-01 20:35:45 INFO	startInit:  false
+2023-06-01 20:35:45 INFO	loadFromPersistence:  false
+2023-06-01 20:36:37 INFO	loader.lua: loader initialized
+2023-06-01 20:36:37 INFO	startInit:  false
+2023-06-01 20:36:37 INFO	loadFromPersistence:  false
+2023-06-01 20:36:47 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:37:44 INFO	loader.lua: loader initialized
+2023-06-01 20:37:44 INFO	startInit:  false
+2023-06-01 20:37:44 INFO	loadFromPersistence:  false
+2023-06-01 20:37:54 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:47:16 INFO	loader.lua: loader initialized
+2023-06-01 20:47:16 INFO	startInit:  false
+2023-06-01 20:47:16 INFO	loadFromPersistence:  false
+2023-06-01 20:47:26 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:54:30 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:59:11 INFO	te.controlLoopV2: tick starting
+2023-06-01 20:59:11 INFO	FlipOwner: Sector 6-12
+2023-06-01 21:02:17 INFO	loader.lua: loader initialized
+2023-06-01 21:02:17 INFO	startInit:  false
+2023-06-01 21:02:17 INFO	loadFromPersistence:  false
+2023-06-01 21:02:27 INFO	te.controlLoopV2: tick starting
+2023-06-01 21:03:41 INFO	te.controlLoopV2: tick starting
+2023-06-01 21:19:44 INFO	loader.lua: loader initialized
+2023-06-01 21:19:44 INFO	startInit:  false
+2023-06-01 21:19:44 INFO	loadFromPersistence:  false
+2023-06-01 21:19:54 INFO	te.controlLoopV2: tick starting
+2023-06-01 21:36:20 INFO	te.controlLoopV2: tick starting
+2023-06-01 21:55:47 INFO	loader.lua: loader initialized
+2023-06-01 21:55:47 INFO	startInit:  false
+2023-06-01 21:55:47 INFO	loadFromPersistence:  false
+2023-06-01 21:55:57 INFO	te.controlLoopV2: tick starting
+2023-06-01 21:55:57 INFO	FlipOwner: Sector 6-8
+2023-06-01 21:56:37 INFO	loader.lua: loader initialized
+2023-06-01 21:56:37 INFO	startInit:  false
+2023-06-01 21:56:37 INFO	loadFromPersistence:  false
+2023-06-01 21:56:47 INFO	te.controlLoopV2: tick starting
+2023-06-01 21:56:47 INFO	FlipOwner: Sector 7-13
+2023-06-01 22:07:35 INFO	te.controlLoopV2: tick starting
+2023-06-01 22:08:13 INFO	te.controlLoopV2: tick starting
+2023-06-01 22:08:13 INFO	FlipOwner: Sector 6-12
+2023-06-01 22:53:14 INFO	te.controlLoopV2: tick starting
+2023-06-01 22:53:14 INFO	FlipOwner: Sector 8-12
+2023-06-01 23:38:13 INFO	te.controlLoopV2: tick starting
+2023-06-01 23:38:13 INFO	FlipOwner: Sector 8-10
+2023-06-01 23:38:14 INFO	FlipOwner: Sector 9-9

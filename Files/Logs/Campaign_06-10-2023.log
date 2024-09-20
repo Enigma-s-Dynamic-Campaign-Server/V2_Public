@@ -1,0 +1,252 @@
+2023-06-10 00:59:07 INFO	loader.lua: loader initialized
+2023-06-10 00:59:07 INFO	startInit:  false
+2023-06-10 00:59:07 INFO	loadFromPersistence:  false
+2023-06-10 00:59:39 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 00:59:39 INFO	te.controlLoopV2: tick starting
+2023-06-10 00:59:39 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 00:59:39 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 00:59:39 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 00:59:39 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:02:21 INFO	loader.lua: loader initialized
+2023-06-10 01:02:21 INFO	startInit:  false
+2023-06-10 01:02:21 INFO	loadFromPersistence:  false
+2023-06-10 01:03:21 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:03:21 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:03:21 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:03:21 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:03:21 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:03:21 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:04:30 INFO	loader.lua: loader initialized
+2023-06-10 01:04:30 INFO	startInit:  false
+2023-06-10 01:04:30 INFO	loadFromPersistence:  false
+2023-06-10 01:05:30 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:05:30 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:05:30 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:05:30 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:05:30 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:05:30 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:06:02 INFO	loader.lua: loader initialized
+2023-06-10 01:06:02 INFO	startInit:  false
+2023-06-10 01:06:02 INFO	loadFromPersistence:  false
+2023-06-10 01:07:02 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:07:02 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:07:02 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:07:02 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:07:02 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:07:02 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:08:05 INFO	loader.lua: loader initialized
+2023-06-10 01:08:05 INFO	startInit:  false
+2023-06-10 01:08:05 INFO	loadFromPersistence:  false
+2023-06-10 01:09:05 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:09:05 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:09:05 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:09:05 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:09:05 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:09:05 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:14:26 INFO	loader.lua: loader initialized
+2023-06-10 01:14:26 INFO	startInit:  false
+2023-06-10 01:14:26 INFO	loadFromPersistence:  false
+2023-06-10 01:15:26 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:15:26 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:15:26 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:15:26 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:15:26 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:15:26 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:25:39 INFO	loader.lua: loader initialized
+2023-06-10 01:25:39 INFO	startInit:  false
+2023-06-10 01:25:39 INFO	loadFromPersistence:  false
+2023-06-10 01:26:39 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:26:39 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:26:39 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:26:39 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:26:39 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:26:39 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:29:27 INFO	loader.lua: loader initialized
+2023-06-10 01:29:27 INFO	startInit:  false
+2023-06-10 01:29:27 INFO	loadFromPersistence:  false
+2023-06-10 01:30:27 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:30:27 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:30:27 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:30:27 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:30:27 INFO	strength:  winner count: 25 | loser count: 24
+2023-06-10 01:30:27 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.04 | numberToCapture: 0
+2023-06-10 01:30:58 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:30:58 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:30:58 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:30:58 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:30:58 INFO	strength:  winner count: 25 | loser count: 24
+2023-06-10 01:30:58 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.04 | numberToCapture: 0
+2023-06-10 01:33:55 INFO	loader.lua: loader initialized
+2023-06-10 01:33:55 INFO	startInit:  false
+2023-06-10 01:33:55 INFO	loadFromPersistence:  false
+2023-06-10 01:34:55 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:34:55 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:34:55 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:34:55 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:34:55 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:34:55 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:38:12 INFO	loader.lua: loader initialized
+2023-06-10 01:38:12 INFO	startInit:  false
+2023-06-10 01:38:12 INFO	loadFromPersistence:  false
+2023-06-10 01:39:12 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:39:12 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:39:12 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:39:12 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:39:12 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:39:12 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:40:33 INFO	loader.lua: loader initialized
+2023-06-10 01:40:33 INFO	startInit:  false
+2023-06-10 01:40:33 INFO	loadFromPersistence:  false
+2023-06-10 01:41:33 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:41:33 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:41:33 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:41:33 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:41:33 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:41:33 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:42:42 INFO	loader.lua: loader initialized
+2023-06-10 01:42:42 INFO	startInit:  false
+2023-06-10 01:42:42 INFO	loadFromPersistence:  false
+2023-06-10 01:43:43 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:43:43 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:43:43 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:43:43 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:43:43 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:43:43 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:44:52 INFO	loader.lua: loader initialized
+2023-06-10 01:44:52 INFO	startInit:  false
+2023-06-10 01:44:52 INFO	loadFromPersistence:  false
+2023-06-10 01:45:52 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:45:52 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:45:52 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:45:52 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:45:52 INFO	strength:  winner count: 27 | loser count: 26
+2023-06-10 01:45:52 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.037037037037037 | numberToCapture: 0
+2023-06-10 01:53:00 INFO	loader.lua: loader initialized
+2023-06-10 01:53:00 INFO	startInit:  false
+2023-06-10 01:53:00 INFO	loadFromPersistence:  false
+2023-06-10 01:54:00 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:54:00 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:54:00 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:54:00 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:54:00 INFO	strength:  winner count: 19 | loser count: 15
+2023-06-10 01:54:00 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.21052631578947 | numberToCapture: 1
+2023-06-10 01:54:00 INFO	weakest hex calc:  weakest hex added:  Sector 7-9 3
+2023-06-10 01:54:00 INFO	Flip Owner:  Sector 7-9 flipped to: 1
+2023-06-10 01:54:00 INFO	flipping hexes:  RED has captured Sector 7-9 !
+2023-06-10 01:54:00 INFO	group clear:  cleared groups everywhere
+2023-06-10 01:54:00 INFO	frontline distribution:  30 | # of frontlines:
+2023-06-10 01:57:04 INFO	loader.lua: loader initialized
+2023-06-10 01:57:04 INFO	startInit:  false
+2023-06-10 01:57:04 INFO	loadFromPersistence:  false
+2023-06-10 01:58:04 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 01:58:04 INFO	te.controlLoopV2: tick starting
+2023-06-10 01:58:04 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:58:04 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 01:58:04 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-10 01:58:49 INFO	loader.lua: loader initialized
+2023-06-10 01:58:49 INFO	startInit:  false
+2023-06-10 01:58:49 INFO	loadFromPersistence:  false
+2023-06-10 01:59:23 INFO	loader.lua: loader initialized
+2023-06-10 01:59:23 INFO	startInit:  false
+2023-06-10 01:59:23 INFO	loadFromPersistence:  false
+2023-06-10 02:00:23 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:00:23 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:00:23 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:00:23 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:00:23 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-10 02:03:43 INFO	loader.lua: loader initialized
+2023-06-10 02:03:43 INFO	startInit:  false
+2023-06-10 02:03:43 INFO	loadFromPersistence:  false
+2023-06-10 02:04:43 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:04:43 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:04:43 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:04:43 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:04:43 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-10 02:04:43 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-10 02:08:18 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:08:18 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:08:18 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:08:18 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:08:18 INFO	strength:  winner count: 16 | loser count: 13
+2023-06-10 02:08:18 INFO	strength:  winner: 2 | loser: 1 | ratio: 0.1875 | numberToCapture: 1
+2023-06-10 02:08:18 INFO	weakest hex calc:  weakest hex added:  Sector 5-13 0
+2023-06-10 02:08:18 INFO	Flip Owner:  Sector 5-13 flipped to: 2
+2023-06-10 02:08:18 INFO	flipping hexes:  BLUE has captured Sector 5-13 !
+2023-06-10 02:08:18 INFO	group clear:  cleared groups everywhere
+2023-06-10 02:08:18 INFO	frontline distribution:  30 | # of frontlines:
+2023-06-10 02:09:17 INFO	loader.lua: loader initialized
+2023-06-10 02:09:17 INFO	startInit:  false
+2023-06-10 02:09:17 INFO	loadFromPersistence:  false
+2023-06-10 02:09:55 INFO	loader.lua: loader initialized
+2023-06-10 02:09:55 INFO	startInit:  false
+2023-06-10 02:09:55 INFO	loadFromPersistence:  false
+2023-06-10 02:10:37 INFO	loader.lua: loader initialized
+2023-06-10 02:10:37 INFO	startInit:  false
+2023-06-10 02:10:37 INFO	loadFromPersistence:  false
+2023-06-10 02:11:37 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:11:37 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:11:37 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:11:37 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:11:37 INFO	strength:  winner count: 21 | loser count: 18
+2023-06-10 02:11:37 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.14285714285714 | numberToCapture: 0
+2023-06-10 02:11:53 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:11:53 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:11:53 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:11:53 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:11:53 INFO	strength:  winner count: 21 | loser count: 17
+2023-06-10 02:11:53 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.19047619047619 | numberToCapture: 1
+2023-06-10 02:11:53 INFO	weakest hex calc:  weakest hex added:  Sector 5-13 0
+2023-06-10 02:11:53 INFO	Flip Owner:  Sector 5-13 flipped to: 1
+2023-06-10 02:11:53 INFO	flipping hexes:  RED has captured Sector 5-13 !
+2023-06-10 02:11:53 INFO	group clear:  cleared groups everywhere
+2023-06-10 02:11:53 INFO	frontline distribution:  30 | # of frontlines: 11 | platoons per frontline: 3
+2023-06-10 02:12:58 INFO	loader.lua: loader initialized
+2023-06-10 02:12:58 INFO	startInit:  false
+2023-06-10 02:12:58 INFO	loadFromPersistence:  false
+2023-06-10 02:13:58 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:13:58 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:13:58 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:13:58 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:13:58 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-10 02:13:58 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-10 02:18:43 INFO	loader.lua: loader initialized
+2023-06-10 02:18:43 INFO	startInit:  false
+2023-06-10 02:18:43 INFO	loadFromPersistence:  false
+2023-06-10 02:18:47 INFO	INIT 2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:18:47 INFO	INIT 2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:18:47 INFO	INIT frontline distribution:  30 | # of frontlines: 11 | platoons per frontline: 3
+2023-06-10 02:18:48 INFO	INIT 2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:18:48 INFO	INIT 2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:18:48 INFO	INIT frontline distribution:  30 | # of frontlines: 11 | platoons per frontline: 3
+2023-06-10 02:19:43 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:19:43 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:19:43 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:19:43 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:19:43 INFO	strength:  winner count: 33 | loser count: 29
+2023-06-10 02:19:43 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.12121212121212 | numberToCapture: 0
+2023-06-10 02:22:25 INFO	loader.lua: loader initialized
+2023-06-10 02:22:25 INFO	startInit:  false
+2023-06-10 02:22:25 INFO	loadFromPersistence:  false
+2023-06-10 02:22:30 INFO	INIT 2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:22:30 INFO	INIT 2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:22:30 INFO	INIT frontline distribution:  30 | # of frontlines: 11 | platoons per frontline: 3
+2023-06-10 02:22:31 INFO	INIT 2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:22:31 INFO	INIT 2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:22:31 INFO	INIT frontline distribution:  30 | # of frontlines: 11 | platoons per frontline: 3
+2023-06-10 02:23:25 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:23:25 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:23:25 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:23:25 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:23:25 INFO	strength:  winner count: 0 | loser count: 0
+2023-06-10 02:23:25 INFO	strength:  winner: 0 | loser: 0 | ratio: -nan(ind) | numberToCapture: -nan(ind)
+2023-06-10 02:27:18 INFO	te.controlLoopV2: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2023-06-10 02:27:18 INFO	te.controlLoopV2: tick starting
+2023-06-10 02:27:18 INFO	2.2 infra audit RED:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:27:18 INFO	2.2 infra audit BLUE:  depot: 0 | factory: 0 | infra: 0
+2023-06-10 02:27:18 INFO	strength:  winner count: 32 | loser count: 25
+2023-06-10 02:27:18 INFO	strength:  winner: 1 | loser: 2 | ratio: 0.21875 | numberToCapture: 1
+2023-06-10 02:27:18 INFO	weakest hex calc:  weakest hex added:  Sector 6-12 0
+2023-06-10 02:27:18 INFO	Flip Owner:  Sector 6-12 flipped to: 1
+2023-06-10 02:27:18 INFO	flipping hexes:  RED has captured Sector 6-12 !
+2023-06-10 02:27:18 INFO	group clear:  cleared groups everywhere
+2023-06-10 02:27:18 INFO	frontline distribution:  30 | # of frontlines: 13 | platoons per frontline: 3
