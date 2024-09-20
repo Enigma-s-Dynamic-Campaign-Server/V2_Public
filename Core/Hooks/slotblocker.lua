@@ -90,30 +90,10 @@ slotblock.slotsByName = {}
 slotblock.slotsByHex = {}
 
 slotblock.gameMasters = {
-    ["cdaccde02cd922f6820fac97a85b11ea"] = true, -- wizard
-    ["d35ed385ccdc621dc3d9e3ac9def9c22"] = true, -- smooth rough
-    ["3c04770340531d31c2fc04fe0c23ecd2"] = true, -- tempest
-    ["843b4a640fdb7a285d559a5a2128ccb5"] = true, -- rooster strokes
-    ["025ee29567ec00061db890812f4b8ec5"] = true, -- yink
-    ["814f636a3668af4c8a17621e67d7dff4"] = true, -- deadseed
-    ["591c2d480f1c5195842da92f39acbfa9"] = true, -- super etendard
-    ["c7cb85663d0c7ec68fac35c6d2480339"] = true, -- king crab
-    ["848eb0431a905ee04d86af37f8441c9f"] = true, -- Shadowfrost
-    ["58d656379adf57b36ce5c23300b1de3b"] = true, -- enigma
-    ["fd1cd519b421f617b6a2828c89707f73"] = true, -- Matroshka
-    ["d4c4c902196a1168791778290608e7b9"] = true, -- Sol
-    ["86bdedba966c40f1e07e976754bb68b1"] = true, -- llds07
-    ["43009af9ad72caf2a3ff31396bed074"] = true, -- EagleEYe
-    ["0281bea18cdf359c363a7263a558a40b"] = true, -- Dundar
-    ["feb5e632e80a58097cb2eeb832a8b5be"] = true, -- HardtoKidnap
-    ["32c0aa33414e9be166cadfcb7c4da9ae"] = true, -- Igloo
-    ["43009af9ad72caf2a3ff31396bed074f"] = true, -- Eagleye
-    ["e14babad806dec750575295c6b75ef2e"] = true, -- Overwatch	
-    ["9e5591038d488a61a8ef2d1488447049"] = true -- Pat
-
-	
-	
-	
+    ["XXX"] = true, -- wizard
+    ["XXX"] = true, -- smooth rough
+    ["XXX"] = true, -- tempest
+    ["XXX"] = true -- rooster strokes
 }
 
 local hexes = {}
