@@ -7,5 +7,7 @@ While this is being shared for people to use, we really recommend people to try 
 This ReadMe will be updated when questions start to come in and I can answer them both on discord and in here. You can ask your questions on discord in the #scripting-hell channel. https://discord.gg/enigma89
 
 Code Breakdown:
+
 .startInit - This file when true tells the campaign system that it is a new campaign. When false it will load from the persistence files (files/persistence)
+
 Core/Variables.lua - This is the 'admin panel' where game mastesr can control values
