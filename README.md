@@ -4,7 +4,7 @@ This is the code from Enigma's Cold War Server version 2.4 (aka ECW V2). This is
 
 While this is being shared for people to use, we really recommend people to try to push the boudnaries. Retracing the same line can get boring and DCS needs to be shaken up to be interesting. 
 
-This ReadMe will be updated when questions start to come in and I can answer them both on discord and in here. You can ask your questions on discord in the #scripting-hell channel. https://discord.gg/enigma89
+This ReadMe will be updated as I get questions. It is a bit hard to anticipate what questions will come up. You can ask your questions on discord in the #scripting-hell channel. https://discord.gg/enigma89 This ReadMe will get built out more over time!
 
 Code Breakdown:
 
